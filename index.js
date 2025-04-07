@@ -19,8 +19,8 @@ const SchoolFoodsArgsSchema = z.object({
   date: z.string().default("오늘").describe("급식 조회 날짜 (YYYYMMDD 형식, '오늘', '내일' 등)")
 });
 
-// 절대 경로 사용 (실행 환경에 관계없이 동작하도록)
-const dataFolderPath = "D:/AI_DEV/Cursor/Project/mcp03/schoolfoods/data";
+// 상대 경로로 변경 (data 폴더가 현재 디렉토리에 있음)
+const dataFolderPath = path.join(__dirname, "data");
 
 // API_KEY는 필요 없음 (주석 처리)
 // const API_KEY = ""; // 실제 서비스에서는 환경 변수 등으로 관리해야 함
