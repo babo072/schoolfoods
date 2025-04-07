@@ -22,6 +22,9 @@ const SchoolFoodsArgsSchema = z.object({
 // 절대 경로 사용 (실행 환경에 관계없이 동작하도록)
 const dataFolderPath = "D:/AI_DEV/Cursor/Project/mcp03/schoolfoods/data";
 
+// API_KEY는 필요 없음 (주석 처리)
+// const API_KEY = ""; // 실제 서비스에서는 환경 변수 등으로 관리해야 함
+
 // 모든 학교 정보를 담을 객체
 let schoolsData = {};
 // 데이터 로딩 완료 여부
@@ -255,19 +258,19 @@ async function findAllSchoolsByName(schoolName) {
 
 // 급식 정보 가져오는 함수
 async function getMealInfo(schoolName, dateStr) {
+  if (!dataLoaded) {
+    console.error("학교 데이터가 로드되지 않았습니다.");
+    return "학교 데이터가 로드되지 않았습니다. 서버를 재시작해 주세요.";
+  }
+
   try {
-    // 데이터 로딩 확인
-    if (!dataLoaded) {
-      return "학교 데이터가 아직 로드되지 않았습니다. 잠시 후 다시 시도해주세요.";
-    }
-    
-    // 날짜 문자열 처리
+    // 날짜 포맷팅
     const formattedDate = processDateString(dateStr);
     
-    // 학교 정보 찾기 (중복된 학교명 포함하여 모두 찾기)
-    const schoolInfos = await findAllSchoolsByName(schoolName);
+    // 학교 정보 검색
+    const schools = await findAllSchoolsByName(schoolName);
     
-    if (schoolInfos.length === 0) {
+    if (schools.length === 0) {
       // 유사한 학교 찾기
       const similarSchools = findSimilarSchools(schoolName);
       let message = `"${schoolName}" 학교 정보를 찾을 수 없습니다.`;
@@ -278,24 +281,18 @@ async function getMealInfo(schoolName, dateStr) {
       
       return message;
     }
-    
-    // 중복 학교가 있는 경우
-    if (schoolInfos.length > 1) {
-      console.error(`"${schoolName}" 이름의 학교가 ${schoolInfos.length}개 발견되었습니다. 모든 학교의 급식 정보를 조회합니다.`);
-    }
-    
-    // 모든 일치하는 학교의 급식 정보 조회
+
+    // 여러 학교에서 급식 정보 가져오기
     const mealResults = [];
     
-    for (const schoolInfo of schoolInfos) {
+    for (const schoolInfo of schools) {
       try {
-        // API 요청 URL 구성 (API 키 제외)
+        // NEIS Open API 요청 URL 구성
+        // API_KEY 제거 - 필요하지 않음
         const url = `https://open.neis.go.kr/hub/mealServiceDietInfo?Type=json&pIndex=1&pSize=100&ATPT_OFCDC_SC_CODE=${schoolInfo.ATPT_OFCDC_SC_CODE}&SD_SCHUL_CODE=${schoolInfo.SD_SCHUL_CODE}&MLSV_YMD=${formattedDate}`;
         
-        // API 요청
-        const response = await fetch(url, { 
-          timeout: 10000 // 10초 타임아웃 설정
-        });
+        // API 요청 보내기
+        const response = await fetch(url);
         
         if (!response.ok) {
           throw new Error(`API 요청 실패: ${response.status} ${response.statusText}`);
@@ -303,7 +300,7 @@ async function getMealInfo(schoolName, dateStr) {
         
         const data = await response.json();
         
-        // 응답 처리
+        // NEIS API 응답 처리 (에러 코드 등)
         if (data.RESULT) {
           if (data.RESULT.CODE === "INFO-200") {
             mealResults.push(`[${schoolInfo.ATPT_OFCDC_SC_NM}] ${schoolInfo.SCHUL_NM}의 ${formattedDate} 급식 정보가 없습니다.`);
@@ -314,70 +311,45 @@ async function getMealInfo(schoolName, dateStr) {
           }
         }
         
-        // 급식 정보 확인
+        // 응답 데이터에서 급식 정보 추출
         if (!data.mealServiceDietInfo || !data.mealServiceDietInfo[1] || !data.mealServiceDietInfo[1].row) {
           mealResults.push(`[${schoolInfo.ATPT_OFCDC_SC_NM}] ${schoolInfo.SCHUL_NM}의 ${formattedDate} 급식 정보가 없거나 형식이 올바르지 않습니다.`);
           continue;
         }
         
-        // 급식 정보 추출 및 반환
+        // 급식 정보 파싱 및 결과 구성
         const meals = data.mealServiceDietInfo[1].row;
-        const result = [];
+        const schoolResult = [];
         
         meals.forEach(meal => {
-          try {
-            // <br/> 태그를 줄바꿈으로 변환하고 불필요한 문자 제거
-            const menuItems = meal.DDISH_NM
-              .replace(/<br\s*\/?>/gi, '\n') // 모든 br 태그 처리
-              .replace(/\([0-9\.]+\)/g, '') // 영양성분 숫자 제거
-              .replace(/\s{2,}/g, ' ') // 중복 공백 제거
-              .trim();
-            
-            // 식단 종류 (조식/중식/석식)와 칼로리 정보 추가
-            const mealType = meal.MMEAL_SC_NM || "급식";
-            const calInfo = meal.CAL_INFO || "";
-            
-            result.push(`[${mealType}] ${calInfo}\n${menuItems}`);
-          } catch (error) {
-            console.error("급식 정보 형식 처리 중 오류:", error);
-            // 개별 급식 처리 오류는 무시하고 계속 진행
-          }
+          // 메뉴 가공: <br/> 태그 제거, 알레르기 정보(1.2.) 제거
+          const menuItems = meal.DDISH_NM
+            .replace(/<br\s*\/?>/gi, '\n')  // <br> 태그를 줄바꿈으로
+            .replace(/\([0-9\.]+\)/g, '')   // 알레르기 정보 제거
+            .replace(/\s{2,}/g, ' ')        // 연속 공백 하나로
+            .trim();
+          
+          const mealType = meal.MMEAL_SC_NM || "급식"; // 급식 유형 (조식, 중식, 석식)
+          const calInfo = meal.CAL_INFO || "";         // 칼로리 정보
+          
+          schoolResult.push(`[${mealType}] ${calInfo}\n${menuItems}`);
         });
-        
-        if (result.length === 0) {
-          mealResults.push(`[${schoolInfo.ATPT_OFCDC_SC_NM}] ${schoolInfo.SCHUL_NM}의 ${formattedDate} 급식 정보를 처리하는 중 오류가 발생했습니다.`);
-          continue;
-        }
         
         // 날짜 형식 표시 변환 (YYYYMMDD -> YYYY-MM-DD)
         const displayDate = `${formattedDate.substring(0, 4)}-${formattedDate.substring(4, 6)}-${formattedDate.substring(6, 8)}`;
         
-        // 교육청 이름을 응답 시작 부분에 명확하게 표시
-        mealResults.push(`[${schoolInfo.ATPT_OFCDC_SC_NM}] ${schoolInfo.SCHUL_NM} ${displayDate} 급식 정보:\n\n${result.join('\n\n')}`);
-        
+        mealResults.push(`[${schoolInfo.ATPT_OFCDC_SC_NM}] ${schoolInfo.SCHUL_NM} ${displayDate} 급식 정보:\n\n${schoolResult.join('\n\n')}`);
       } catch (error) {
-        console.error(`${schoolInfo.ATPT_OFCDC_SC_NM} ${schoolInfo.SCHUL_NM} 급식 정보 조회 중 오류:`, error);
-        mealResults.push(`[${schoolInfo.ATPT_OFCDC_SC_NM}] ${schoolInfo.SCHUL_NM}의 급식 정보를 가져오는 중 오류가 발생했습니다: ${error.message}`);
+        console.error(`${schoolInfo.SCHUL_NM} 급식 정보 조회 중 오류:`, error);
+        mealResults.push(`[${schoolInfo.ATPT_OFCDC_SC_NM}] ${schoolInfo.SCHUL_NM} 급식 정보 조회 실패: ${error.message}`);
       }
     }
     
-    // 중복 학교가 있는 경우에만 header 추가
-    if (schoolInfos.length > 1) {
-      return `"${schoolName}" 이름의 학교가 ${schoolInfos.length}개 발견되었습니다.\n각 학교의 급식 정보는 다음과 같습니다:\n\n${mealResults.join('\n\n' + '-'.repeat(50) + '\n\n')}`;
-    } else {
-      return mealResults[0]; // 중복이 없는 경우 첫 번째 결과만 반환
-    }
+    // 모든 결과 반환
+    return mealResults.join('\n\n--------------------------------------------------\n\n');
     
   } catch (error) {
-    console.error("급식 정보 조회 중 오류 발생:", error);
-    
-    // 네트워크 관련 오류 메시지 개선
-    if (error.name === 'AbortError' || error.code === 'ECONNABORTED') {
-      return "급식 정보를 가져오는 중 서버 응답 시간이 초과되었습니다. 잠시 후 다시 시도해주세요.";
-    } else if (error.code === 'ENOTFOUND' || error.code === 'ECONNREFUSED') {
-      return "급식 정보 서버에 연결할 수 없습니다. 인터넷 연결을 확인하거나 잠시 후 다시 시도해주세요.";
-    }
-    
+    console.error("급식 정보 요청 중 오류 발생:", error);
     return `급식 정보를 가져오는 중 오류가 발생했습니다: ${error.message}`;
   }
 }
