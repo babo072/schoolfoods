@@ -1,0 +1,2006 @@
+[
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391134",
+    "SCHUL_NM": "각화중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391093",
+    "SCHUL_NM": "각화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391240",
+    "SCHUL_NM": "건국초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391089",
+    "SCHUL_NM": "경양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401189",
+    "SCHUL_NM": "계수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380041",
+    "SCHUL_NM": "고려고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391148",
+    "SCHUL_NM": "고려중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401459",
+    "SCHUL_NM": "고실중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401206",
+    "SCHUL_NM": "고실초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380042",
+    "SCHUL_NM": "광덕고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401252",
+    "SCHUL_NM": "광덕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401362",
+    "SCHUL_NM": "광림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401223",
+    "SCHUL_NM": "광산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380047",
+    "SCHUL_NM": "광일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380048",
+    "SCHUL_NM": "광주경신여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391152",
+    "SCHUL_NM": "광주경신중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391070",
+    "SCHUL_NM": "광주계림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380030",
+    "SCHUL_NM": "광주고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380098",
+    "SCHUL_NM": "광주고등학교부설방송통신고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380146",
+    "SCHUL_NM": "광주공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380031",
+    "SCHUL_NM": "광주과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401132",
+    "SCHUL_NM": "광주광천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7006149",
+    "SCHUL_NM": "광주교육대학교광주부설초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401126",
+    "SCHUL_NM": "광주극락초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391073",
+    "SCHUL_NM": "광주남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401133",
+    "SCHUL_NM": "광주농성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380049",
+    "SCHUL_NM": "광주대동고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401123",
+    "SCHUL_NM": "광주대성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401232",
+    "SCHUL_NM": "광주동명중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391077",
+    "SCHUL_NM": "광주동산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380127",
+    "SCHUL_NM": "광주동성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401445",
+    "SCHUL_NM": "광주동성여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401444",
+    "SCHUL_NM": "광주동성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380050",
+    "SCHUL_NM": "광주동신고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380051",
+    "SCHUL_NM": "광주동신여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391151",
+    "SCHUL_NM": "광주동신여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391146",
+    "SCHUL_NM": "광주동신중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391084",
+    "SCHUL_NM": "광주동운초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391074",
+    "SCHUL_NM": "광주동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7390098",
+    "SCHUL_NM": "광주동초등학교충효분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401212",
+    "SCHUL_NM": "광주무진중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391081",
+    "SCHUL_NM": "광주문화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401129",
+    "SCHUL_NM": "광주방림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401128",
+    "SCHUL_NM": "광주백운초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401135",
+    "SCHUL_NM": "광주봉주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391123",
+    "SCHUL_NM": "광주북성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391237",
+    "SCHUL_NM": "광주북성중학교부설방송통신중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391250",
+    "SCHUL_NM": "광주북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391080",
+    "SCHUL_NM": "광주산수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401211",
+    "SCHUL_NM": "광주삼육초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401131",
+    "SCHUL_NM": "광주상무초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401215",
+    "SCHUL_NM": "광주서광중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391071",
+    "SCHUL_NM": "광주서림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391076",
+    "SCHUL_NM": "광주서산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380053",
+    "SCHUL_NM": "광주서석고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401254",
+    "SCHUL_NM": "광주서석중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391067",
+    "SCHUL_NM": "광주서석초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401136",
+    "SCHUL_NM": "광주서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380054",
+    "SCHUL_NM": "광주석산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380107",
+    "SCHUL_NM": "광주선광학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380108",
+    "SCHUL_NM": "광주선명학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380271",
+    "SCHUL_NM": "광주선우학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380110",
+    "SCHUL_NM": "광주세광학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380292",
+    "SCHUL_NM": "광주소프트웨어마이스터고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401251",
+    "SCHUL_NM": "광주송원중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401210",
+    "SCHUL_NM": "광주송원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391068",
+    "SCHUL_NM": "광주수창초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380055",
+    "SCHUL_NM": "광주수피아여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401464",
+    "SCHUL_NM": "광주수피아여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380056",
+    "SCHUL_NM": "광주숭일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391145",
+    "SCHUL_NM": "광주숭일중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401125",
+    "SCHUL_NM": "광주양동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391078",
+    "SCHUL_NM": "광주양산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380032",
+    "SCHUL_NM": "광주여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380091",
+    "SCHUL_NM": "광주여자상업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380033",
+    "SCHUL_NM": "광주예술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391274",
+    "SCHUL_NM": "광주예술중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380188",
+    "SCHUL_NM": "광주외국인학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391085",
+    "SCHUL_NM": "광주용봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391092",
+    "SCHUL_NM": "광주용산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391088",
+    "SCHUL_NM": "광주우산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391087",
+    "SCHUL_NM": "광주운암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401130",
+    "SCHUL_NM": "광주월산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380057",
+    "SCHUL_NM": "광주인성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380353",
+    "SCHUL_NM": "광주자동화설비마이스터고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380128",
+    "SCHUL_NM": "광주자연과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391082",
+    "SCHUL_NM": "광주장원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380083",
+    "SCHUL_NM": "광주전자공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401142",
+    "SCHUL_NM": "광주제석초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380034",
+    "SCHUL_NM": "광주제일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391069",
+    "SCHUL_NM": "광주중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401218",
+    "SCHUL_NM": "광주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391079",
+    "SCHUL_NM": "광주중흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391075",
+    "SCHUL_NM": "광주지산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380059",
+    "SCHUL_NM": "광주진흥고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401463",
+    "SCHUL_NM": "광주진흥중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380035",
+    "SCHUL_NM": "광주체육고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391132",
+    "SCHUL_NM": "광주체육중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391124",
+    "SCHUL_NM": "광주충장중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380291",
+    "SCHUL_NM": "광주푸른꿈창작학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391086",
+    "SCHUL_NM": "광주풍향초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401124",
+    "SCHUL_NM": "광주학강초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391083",
+    "SCHUL_NM": "광주학운초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401217",
+    "SCHUL_NM": "광주화정중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401134",
+    "SCHUL_NM": "광주화정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401216",
+    "SCHUL_NM": "광주효광중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401127",
+    "SCHUL_NM": "광주효덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391072",
+    "SCHUL_NM": "광주효동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380060",
+    "SCHUL_NM": "국제고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401234",
+    "SCHUL_NM": "금구중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401183",
+    "SCHUL_NM": "금구초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401221",
+    "SCHUL_NM": "금당중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401181",
+    "SCHUL_NM": "금당초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401164",
+    "SCHUL_NM": "금부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380094",
+    "SCHUL_NM": "금파공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380061",
+    "SCHUL_NM": "금호고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380259",
+    "SCHUL_NM": "금호미용예술학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380278",
+    "SCHUL_NM": "금호중앙여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391248",
+    "SCHUL_NM": "금호중앙중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401229",
+    "SCHUL_NM": "금호중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401148",
+    "SCHUL_NM": "금호초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380062",
+    "SCHUL_NM": "대광여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401191",
+    "SCHUL_NM": "대반초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380063",
+    "SCHUL_NM": "대성여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401257",
+    "SCHUL_NM": "대성여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401363",
+    "SCHUL_NM": "대자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391095",
+    "SCHUL_NM": "대자초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401168",
+    "SCHUL_NM": "대촌중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401224",
+    "SCHUL_NM": "대촌중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401202",
+    "SCHUL_NM": "도산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380187",
+    "SCHUL_NM": "돈보스코학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401162",
+    "SCHUL_NM": "동곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391107",
+    "SCHUL_NM": "동림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380131",
+    "SCHUL_NM": "동명고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380064",
+    "SCHUL_NM": "동아여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401258",
+    "SCHUL_NM": "동아여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380290",
+    "SCHUL_NM": "동일미래과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391133",
+    "SCHUL_NM": "두암중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391090",
+    "SCHUL_NM": "두암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401182",
+    "SCHUL_NM": "마재초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401185",
+    "SCHUL_NM": "마지초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401200",
+    "SCHUL_NM": "만호초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391103",
+    "SCHUL_NM": "매곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380273",
+    "SCHUL_NM": "명진고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401169",
+    "SCHUL_NM": "목련초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391125",
+    "SCHUL_NM": "무등중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391091",
+    "SCHUL_NM": "무등초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401170",
+    "SCHUL_NM": "무학초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391136",
+    "SCHUL_NM": "문산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391101",
+    "SCHUL_NM": "문산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380065",
+    "SCHUL_NM": "문성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401253",
+    "SCHUL_NM": "문성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391113",
+    "SCHUL_NM": "문우초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380180",
+    "SCHUL_NM": "문정여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391104",
+    "SCHUL_NM": "문정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391131",
+    "SCHUL_NM": "문화중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391099",
+    "SCHUL_NM": "문흥중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391135",
+    "SCHUL_NM": "문흥중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391096",
+    "SCHUL_NM": "문흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401177",
+    "SCHUL_NM": "미산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380148",
+    "SCHUL_NM": "보문고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401167",
+    "SCHUL_NM": "본량초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391114",
+    "SCHUL_NM": "본촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401241",
+    "SCHUL_NM": "봉산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401194",
+    "SCHUL_NM": "봉산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401213",
+    "SCHUL_NM": "봉선중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401138",
+    "SCHUL_NM": "봉선초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401199",
+    "SCHUL_NM": "불로초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380326",
+    "SCHUL_NM": "비아고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401262",
+    "SCHUL_NM": "비아중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401155",
+    "SCHUL_NM": "비아초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380196",
+    "SCHUL_NM": "빛고을고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380352",
+    "SCHUL_NM": "빛고을온학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401361",
+    "SCHUL_NM": "빛고을초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401453",
+    "SCHUL_NM": "빛여울초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401156",
+    "SCHUL_NM": "산월초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401249",
+    "SCHUL_NM": "산정중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401209",
+    "SCHUL_NM": "산정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380067",
+    "SCHUL_NM": "살레시오고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380068",
+    "SCHUL_NM": "살레시오여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391154",
+    "SCHUL_NM": "살레시오여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391153",
+    "SCHUL_NM": "살레시오중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401398",
+    "SCHUL_NM": "살레시오초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391106",
+    "SCHUL_NM": "삼각초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401165",
+    "SCHUL_NM": "삼도초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391098",
+    "SCHUL_NM": "삼정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380132",
+    "SCHUL_NM": "상무고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401214",
+    "SCHUL_NM": "상무중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380177",
+    "SCHUL_NM": "상일여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401226",
+    "SCHUL_NM": "상일중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380258",
+    "SCHUL_NM": "새날학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401402",
+    "SCHUL_NM": "새별초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380069",
+    "SCHUL_NM": "서강고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391147",
+    "SCHUL_NM": "서강중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401140",
+    "SCHUL_NM": "서광초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391108",
+    "SCHUL_NM": "서일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380149",
+    "SCHUL_NM": "서진여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380357",
+    "SCHUL_NM": "선예학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401388",
+    "SCHUL_NM": "선운중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401366",
+    "SCHUL_NM": "선운초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401198",
+    "SCHUL_NM": "선창초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380073",
+    "SCHUL_NM": "설월여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380260",
+    "SCHUL_NM": "성덕고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401247",
+    "SCHUL_NM": "성덕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401344",
+    "SCHUL_NM": "성덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401447",
+    "SCHUL_NM": "성진초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401238",
+    "SCHUL_NM": "송광중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401154",
+    "SCHUL_NM": "송우초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380070",
+    "SCHUL_NM": "송원고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380071",
+    "SCHUL_NM": "송원여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380158",
+    "SCHUL_NM": "송원여자상업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401150",
+    "SCHUL_NM": "송정동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401151",
+    "SCHUL_NM": "송정서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401152",
+    "SCHUL_NM": "송정중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401222",
+    "SCHUL_NM": "송정중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401153",
+    "SCHUL_NM": "송정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401171",
+    "SCHUL_NM": "송학초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401201",
+    "SCHUL_NM": "수문초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380182",
+    "SCHUL_NM": "수완고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401248",
+    "SCHUL_NM": "수완중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401204",
+    "SCHUL_NM": "수완초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401426",
+    "SCHUL_NM": "수완하나중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380072",
+    "SCHUL_NM": "숭덕고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380321",
+    "SCHUL_NM": "숭의과학기술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401250",
+    "SCHUL_NM": "숭의중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401240",
+    "SCHUL_NM": "신가중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401176",
+    "SCHUL_NM": "신가초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391130",
+    "SCHUL_NM": "신광중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401186",
+    "SCHUL_NM": "신암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391241",
+    "SCHUL_NM": "신용중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391198",
+    "SCHUL_NM": "신용초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401243",
+    "SCHUL_NM": "신창중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401197",
+    "SCHUL_NM": "신창초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391137",
+    "SCHUL_NM": "양산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391116",
+    "SCHUL_NM": "양지초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401160",
+    "SCHUL_NM": "어등초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401193",
+    "SCHUL_NM": "어룡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391115",
+    "SCHUL_NM": "연제초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401139",
+    "SCHUL_NM": "염주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401239",
+    "SCHUL_NM": "영천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401195",
+    "SCHUL_NM": "영천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391102",
+    "SCHUL_NM": "오정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391097",
+    "SCHUL_NM": "오치초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391143",
+    "SCHUL_NM": "용두중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391109",
+    "SCHUL_NM": "용두초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391129",
+    "SCHUL_NM": "용봉중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380186",
+    "SCHUL_NM": "용연학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391111",
+    "SCHUL_NM": "용주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391128",
+    "SCHUL_NM": "우산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380147",
+    "SCHUL_NM": "운남고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401231",
+    "SCHUL_NM": "운남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401174",
+    "SCHUL_NM": "운남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401242",
+    "SCHUL_NM": "운리중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401190",
+    "SCHUL_NM": "운리초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391126",
+    "SCHUL_NM": "운림중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391127",
+    "SCHUL_NM": "운암중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401175",
+    "SCHUL_NM": "운천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401230",
+    "SCHUL_NM": "월계중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401172",
+    "SCHUL_NM": "월계초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401228",
+    "SCHUL_NM": "월곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401159",
+    "SCHUL_NM": "월곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401416",
+    "SCHUL_NM": "월광기독학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401245",
+    "SCHUL_NM": "월봉중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401196",
+    "SCHUL_NM": "월봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401244",
+    "SCHUL_NM": "유덕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401179",
+    "SCHUL_NM": "유덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401144",
+    "SCHUL_NM": "유안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401178",
+    "SCHUL_NM": "유촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391100",
+    "SCHUL_NM": "율곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401387",
+    "SCHUL_NM": "은빛초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380112",
+    "SCHUL_NM": "은혜학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391138",
+    "SCHUL_NM": "일곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391105",
+    "SCHUL_NM": "일곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391139",
+    "SCHUL_NM": "일동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391110",
+    "SCHUL_NM": "일동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391141",
+    "SCHUL_NM": "일신중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391112",
+    "SCHUL_NM": "일신초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401261",
+    "SCHUL_NM": "임곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401161",
+    "SCHUL_NM": "임곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380181",
+    "SCHUL_NM": "장덕고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401342",
+    "SCHUL_NM": "장덕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401207",
+    "SCHUL_NM": "장덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401141",
+    "SCHUL_NM": "장산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380037",
+    "SCHUL_NM": "전남고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380086",
+    "SCHUL_NM": "전남공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380029",
+    "SCHUL_NM": "전남대학교사범대학부설고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391122",
+    "SCHUL_NM": "전남대학교사범대학부설중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380039",
+    "SCHUL_NM": "전남여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380101",
+    "SCHUL_NM": "전남여자고등학교부설방송통신고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380097",
+    "SCHUL_NM": "전남여자상업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401236",
+    "SCHUL_NM": "전남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380075",
+    "SCHUL_NM": "정광고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401260",
+    "SCHUL_NM": "정광중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401173",
+    "SCHUL_NM": "정암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401149",
+    "SCHUL_NM": "조봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380076",
+    "SCHUL_NM": "조선대학교부속고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391144",
+    "SCHUL_NM": "조선대학교부속중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380077",
+    "SCHUL_NM": "조선대학교여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391150",
+    "SCHUL_NM": "조선대학교여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401220",
+    "SCHUL_NM": "주월중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401137",
+    "SCHUL_NM": "주월초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391140",
+    "SCHUL_NM": "지산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391264",
+    "SCHUL_NM": "지한초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401246",
+    "SCHUL_NM": "진남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401203",
+    "SCHUL_NM": "진남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401187",
+    "SCHUL_NM": "진만초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401147",
+    "SCHUL_NM": "진월초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401205",
+    "SCHUL_NM": "진제초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401235",
+    "SCHUL_NM": "천곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380153",
+    "SCHUL_NM": "첨단고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401237",
+    "SCHUL_NM": "첨단중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401192",
+    "SCHUL_NM": "첨단초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401219",
+    "SCHUL_NM": "치평중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401184",
+    "SCHUL_NM": "치평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401208",
+    "SCHUL_NM": "큰별초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391094",
+    "SCHUL_NM": "태봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401225",
+    "SCHUL_NM": "평동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401163",
+    "SCHUL_NM": "평동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380145",
+    "SCHUL_NM": "풍암고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401233",
+    "SCHUL_NM": "풍암중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401166",
+    "SCHUL_NM": "풍암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401188",
+    "SCHUL_NM": "풍영초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401158",
+    "SCHUL_NM": "하남중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401227",
+    "SCHUL_NM": "하남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401157",
+    "SCHUL_NM": "하남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391119",
+    "SCHUL_NM": "하백초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7391120",
+    "SCHUL_NM": "한울초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7380078",
+    "SCHUL_NM": "호남삼육고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401446",
+    "SCHUL_NM": "호남삼육중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401180",
+    "SCHUL_NM": "화개초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401146",
+    "SCHUL_NM": "화정남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401143",
+    "SCHUL_NM": "효광초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401435",
+    "SCHUL_NM": "효천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "F10",
+    "ATPT_OFCDC_SC_NM": "광주광역시교육청",
+    "SD_SCHUL_CODE": "7401399",
+    "SCHUL_NM": "효천초등학교"
+  }
+]

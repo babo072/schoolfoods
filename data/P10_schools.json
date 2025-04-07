@@ -1,0 +1,4682 @@
+[
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392053",
+    "SCHUL_NM": "가천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452041",
+    "SCHUL_NM": "가평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392051",
+    "SCHUL_NM": "간중초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432022",
+    "SCHUL_NM": "갈담초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362082",
+    "SCHUL_NM": "감곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362058",
+    "SCHUL_NM": "감곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321199",
+    "SCHUL_NM": "강호항공고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342105",
+    "SCHUL_NM": "개정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462036",
+    "SCHUL_NM": "격포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422024",
+    "SCHUL_NM": "계남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422016",
+    "SCHUL_NM": "계남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422025",
+    "SCHUL_NM": "계북중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422017",
+    "SCHUL_NM": "계북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462050",
+    "SCHUL_NM": "계화중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362083",
+    "SCHUL_NM": "고부중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362059",
+    "SCHUL_NM": "고부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321168",
+    "SCHUL_NM": "고산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392077",
+    "SCHUL_NM": "고산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392054",
+    "SCHUL_NM": "고산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452030",
+    "SCHUL_NM": "고수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321197",
+    "SCHUL_NM": "고창고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452062",
+    "SCHUL_NM": "고창남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452029",
+    "SCHUL_NM": "고창남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452063",
+    "SCHUL_NM": "고창부안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321200",
+    "SCHUL_NM": "고창북고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452061",
+    "SCHUL_NM": "고창북중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452049",
+    "SCHUL_NM": "고창중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452028",
+    "SCHUL_NM": "고창초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462045",
+    "SCHUL_NM": "곰소초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382053",
+    "SCHUL_NM": "공덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452050",
+    "SCHUL_NM": "공음중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452031",
+    "SCHUL_NM": "공음초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432038",
+    "SCHUL_NM": "관촌중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432023",
+    "SCHUL_NM": "관촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382055",
+    "SCHUL_NM": "광활초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412022",
+    "SCHUL_NM": "괴목초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362044",
+    "SCHUL_NM": "교암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442037",
+    "SCHUL_NM": "구림중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442023",
+    "SCHUL_NM": "구림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392078",
+    "SCHUL_NM": "구이중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392057",
+    "SCHUL_NM": "구이초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412019",
+    "SCHUL_NM": "구천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342074",
+    "SCHUL_NM": "군산경포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321107",
+    "SCHUL_NM": "군산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342075",
+    "SCHUL_NM": "군산구암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342130",
+    "SCHUL_NM": "군산금강중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342076",
+    "SCHUL_NM": "군산금광초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342129",
+    "SCHUL_NM": "군산금빛초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321109",
+    "SCHUL_NM": "군산기계공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342077",
+    "SCHUL_NM": "군산나운초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342131",
+    "SCHUL_NM": "군산남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342078",
+    "SCHUL_NM": "군산남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342079",
+    "SCHUL_NM": "군산내흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342145",
+    "SCHUL_NM": "군산대성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321111",
+    "SCHUL_NM": "군산동고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342132",
+    "SCHUL_NM": "군산동산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342133",
+    "SCHUL_NM": "군산동원중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342080",
+    "SCHUL_NM": "군산동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321226",
+    "SCHUL_NM": "군산명화학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342081",
+    "SCHUL_NM": "군산문화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342082",
+    "SCHUL_NM": "군산미성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342083",
+    "SCHUL_NM": "군산미장초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342134",
+    "SCHUL_NM": "군산산북중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342084",
+    "SCHUL_NM": "군산산북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321110",
+    "SCHUL_NM": "군산상일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342085",
+    "SCHUL_NM": "군산서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342086",
+    "SCHUL_NM": "군산서해초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342135",
+    "SCHUL_NM": "군산서흥중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342087",
+    "SCHUL_NM": "군산수송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342088",
+    "SCHUL_NM": "군산신풍초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342089",
+    "SCHUL_NM": "군산신흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342097",
+    "SCHUL_NM": "군산아리울초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321108",
+    "SCHUL_NM": "군산여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321112",
+    "SCHUL_NM": "군산여자상업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321118",
+    "SCHUL_NM": "군산영광여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342146",
+    "SCHUL_NM": "군산영광중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342090",
+    "SCHUL_NM": "군산용문초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342136",
+    "SCHUL_NM": "군산월명중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342091",
+    "SCHUL_NM": "군산월명초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342139",
+    "SCHUL_NM": "군산자양중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321115",
+    "SCHUL_NM": "군산제일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342148",
+    "SCHUL_NM": "군산제일중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321116",
+    "SCHUL_NM": "군산중앙고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321117",
+    "SCHUL_NM": "군산중앙여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342147",
+    "SCHUL_NM": "군산중앙중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342092",
+    "SCHUL_NM": "군산중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342137",
+    "SCHUL_NM": "군산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342093",
+    "SCHUL_NM": "군산지곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342138",
+    "SCHUL_NM": "군산진포중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342094",
+    "SCHUL_NM": "군산진포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342095",
+    "SCHUL_NM": "군산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342096",
+    "SCHUL_NM": "군산푸른솔초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342098",
+    "SCHUL_NM": "군산풍문초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342099",
+    "SCHUL_NM": "군산흥남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321236",
+    "SCHUL_NM": "글로벌학산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442024",
+    "SCHUL_NM": "금과초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382083",
+    "SCHUL_NM": "금구중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382056",
+    "SCHUL_NM": "금구초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352115",
+    "SCHUL_NM": "금마초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382059",
+    "SCHUL_NM": "금산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382087",
+    "SCHUL_NM": "금성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372042",
+    "SCHUL_NM": "금지동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372065",
+    "SCHUL_NM": "금지중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372043",
+    "SCHUL_NM": "금지초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382044",
+    "SCHUL_NM": "김제검산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321158",
+    "SCHUL_NM": "김제고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321160",
+    "SCHUL_NM": "김제농생명마이스터고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382045",
+    "SCHUL_NM": "김제동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382046",
+    "SCHUL_NM": "김제북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321162",
+    "SCHUL_NM": "김제서고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321159",
+    "SCHUL_NM": "김제여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382081",
+    "SCHUL_NM": "김제중앙중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382047",
+    "SCHUL_NM": "김제중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382082",
+    "SCHUL_NM": "김제중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382048",
+    "SCHUL_NM": "김제초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342140",
+    "SCHUL_NM": "나포중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342107",
+    "SCHUL_NM": "나포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382062",
+    "SCHUL_NM": "난산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392063",
+    "SCHUL_NM": "남관초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321125",
+    "SCHUL_NM": "남성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352158",
+    "SCHUL_NM": "남성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382078",
+    "SCHUL_NM": "남양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321149",
+    "SCHUL_NM": "남원고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372033",
+    "SCHUL_NM": "남원교룡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321155",
+    "SCHUL_NM": "남원국악예술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372034",
+    "SCHUL_NM": "남원노암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372045",
+    "SCHUL_NM": "남원대산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372035",
+    "SCHUL_NM": "남원도통초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372046",
+    "SCHUL_NM": "남원서원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321154",
+    "SCHUL_NM": "남원서진여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321150",
+    "SCHUL_NM": "남원여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372036",
+    "SCHUL_NM": "남원왕치초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321151",
+    "SCHUL_NM": "남원용성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372060",
+    "SCHUL_NM": "남원용성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372037",
+    "SCHUL_NM": "남원용성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372038",
+    "SCHUL_NM": "남원월락초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321156",
+    "SCHUL_NM": "남원제일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372039",
+    "SCHUL_NM": "남원중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372061",
+    "SCHUL_NM": "남원중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372040",
+    "SCHUL_NM": "남원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372062",
+    "SCHUL_NM": "남원하늘중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372063",
+    "SCHUL_NM": "남원한빛중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352117",
+    "SCHUL_NM": "낭산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462058",
+    "SCHUL_NM": "낭주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362045",
+    "SCHUL_NM": "내장초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362064",
+    "SCHUL_NM": "능교초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321224",
+    "SCHUL_NM": "다솜학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352113",
+    "SCHUL_NM": "다송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342122",
+    "SCHUL_NM": "당북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372066",
+    "SCHUL_NM": "대강중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372044",
+    "SCHUL_NM": "대강초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392058",
+    "SCHUL_NM": "대덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432028",
+    "SCHUL_NM": "대리초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452033",
+    "SCHUL_NM": "대산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452051",
+    "SCHUL_NM": "대성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452044",
+    "SCHUL_NM": "대아초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342108",
+    "SCHUL_NM": "대야남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342109",
+    "SCHUL_NM": "대야초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8341089",
+    "SCHUL_NM": "대야초등학교광산분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362070",
+    "SCHUL_NM": "대흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372047",
+    "SCHUL_NM": "덕과초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321163",
+    "SCHUL_NM": "덕암고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321164",
+    "SCHUL_NM": "덕암정보고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382088",
+    "SCHUL_NM": "덕암중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362060",
+    "SCHUL_NM": "덕천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432024",
+    "SCHUL_NM": "덕치초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362061",
+    "SCHUL_NM": "도학초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321194",
+    "SCHUL_NM": "동계고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442038",
+    "SCHUL_NM": "동계중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442025",
+    "SCHUL_NM": "동계초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321161",
+    "SCHUL_NM": "동국대학교사범대학부속금산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382091",
+    "SCHUL_NM": "동국대학교사범대학부속금산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462032",
+    "SCHUL_NM": "동북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442026",
+    "SCHUL_NM": "동산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392061",
+    "SCHUL_NM": "동상초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362046",
+    "SCHUL_NM": "동신초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321089",
+    "SCHUL_NM": "동암고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321227",
+    "SCHUL_NM": "동암차돌학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392065",
+    "SCHUL_NM": "동양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462033",
+    "SCHUL_NM": "동진초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402033",
+    "SCHUL_NM": "동향중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402021",
+    "SCHUL_NM": "동향초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452046",
+    "SCHUL_NM": "동호초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321179",
+    "SCHUL_NM": "마령고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402034",
+    "SCHUL_NM": "마령중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402022",
+    "SCHUL_NM": "마령초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432031",
+    "SCHUL_NM": "마암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321165",
+    "SCHUL_NM": "만경고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321166",
+    "SCHUL_NM": "만경여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382089",
+    "SCHUL_NM": "만경여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382090",
+    "SCHUL_NM": "만경중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382052",
+    "SCHUL_NM": "만경초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352119",
+    "SCHUL_NM": "망성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452034",
+    "SCHUL_NM": "매산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342117",
+    "SCHUL_NM": "무녀도초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452035",
+    "SCHUL_NM": "무장초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321184",
+    "SCHUL_NM": "무주고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412014",
+    "SCHUL_NM": "무주중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412024",
+    "SCHUL_NM": "무주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412015",
+    "SCHUL_NM": "무주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321183",
+    "SCHUL_NM": "무풍고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412025",
+    "SCHUL_NM": "무풍중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412016",
+    "SCHUL_NM": "무풍초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342100",
+    "SCHUL_NM": "문창초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342101",
+    "SCHUL_NM": "미룡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352116",
+    "SCHUL_NM": "미륵초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342106",
+    "SCHUL_NM": "발산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321140",
+    "SCHUL_NM": "배영고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362091",
+    "SCHUL_NM": "배영중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382063",
+    "SCHUL_NM": "백구초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462034",
+    "SCHUL_NM": "백룡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321208",
+    "SCHUL_NM": "백산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462060",
+    "SCHUL_NM": "백산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462035",
+    "SCHUL_NM": "백산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382049",
+    "SCHUL_NM": "백석초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362074",
+    "SCHUL_NM": "백암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402035",
+    "SCHUL_NM": "백운중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402023",
+    "SCHUL_NM": "백운초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321238",
+    "SCHUL_NM": "백화고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422026",
+    "SCHUL_NM": "번암중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422018",
+    "SCHUL_NM": "번암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422019",
+    "SCHUL_NM": "번암초등학교동화분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382069",
+    "SCHUL_NM": "벽량초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462061",
+    "SCHUL_NM": "변산서중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462056",
+    "SCHUL_NM": "변산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462037",
+    "SCHUL_NM": "변산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362062",
+    "SCHUL_NM": "보성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462051",
+    "SCHUL_NM": "보안중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372067",
+    "SCHUL_NM": "보절중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372048",
+    "SCHUL_NM": "보절초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442039",
+    "SCHUL_NM": "복흥중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442027",
+    "SCHUL_NM": "복흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382084",
+    "SCHUL_NM": "봉남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382067",
+    "SCHUL_NM": "봉남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392043",
+    "SCHUL_NM": "봉동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392055",
+    "SCHUL_NM": "봉동초등학교양화분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392073",
+    "SCHUL_NM": "봉서중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392044",
+    "SCHUL_NM": "봉서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392045",
+    "SCHUL_NM": "봉성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452036",
+    "SCHUL_NM": "봉암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402036",
+    "SCHUL_NM": "부귀중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402024",
+    "SCHUL_NM": "부귀초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412026",
+    "SCHUL_NM": "부남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412017",
+    "SCHUL_NM": "부남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412018",
+    "SCHUL_NM": "부당초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321203",
+    "SCHUL_NM": "부안고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462027",
+    "SCHUL_NM": "부안남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462028",
+    "SCHUL_NM": "부안동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321209",
+    "SCHUL_NM": "부안여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462049",
+    "SCHUL_NM": "부안중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462029",
+    "SCHUL_NM": "부안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382064",
+    "SCHUL_NM": "부용초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362063",
+    "SCHUL_NM": "북면초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382071",
+    "SCHUL_NM": "비룡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392062",
+    "SCHUL_NM": "비봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372049",
+    "SCHUL_NM": "사매초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372068",
+    "SCHUL_NM": "산내중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372050",
+    "SCHUL_NM": "산내초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372051",
+    "SCHUL_NM": "산동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321188",
+    "SCHUL_NM": "산서고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422027",
+    "SCHUL_NM": "산서중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422020",
+    "SCHUL_NM": "산서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362085",
+    "SCHUL_NM": "산외중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362065",
+    "SCHUL_NM": "산외초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432039",
+    "SCHUL_NM": "삼계중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432025",
+    "SCHUL_NM": "삼계초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352151",
+    "SCHUL_NM": "삼기중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352121",
+    "SCHUL_NM": "삼기초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462059",
+    "SCHUL_NM": "삼남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392048",
+    "SCHUL_NM": "삼례동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392049",
+    "SCHUL_NM": "삼례중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392075",
+    "SCHUL_NM": "삼례중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392050",
+    "SCHUL_NM": "삼례초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392083",
+    "SCHUL_NM": "삼우중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392056",
+    "SCHUL_NM": "삼우초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392079",
+    "SCHUL_NM": "상관중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392064",
+    "SCHUL_NM": "상관초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321090",
+    "SCHUL_NM": "상산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462052",
+    "SCHUL_NM": "상서중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462039",
+    "SCHUL_NM": "상서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452052",
+    "SCHUL_NM": "상하중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452038",
+    "SCHUL_NM": "상하초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342115",
+    "SCHUL_NM": "새만금초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442042",
+    "SCHUL_NM": "새솔중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362079",
+    "SCHUL_NM": "샘고을중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321207",
+    "SCHUL_NM": "서림고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342112",
+    "SCHUL_NM": "서수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362047",
+    "SCHUL_NM": "서신초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321141",
+    "SCHUL_NM": "서영여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332212",
+    "SCHUL_NM": "서전주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352122",
+    "SCHUL_NM": "석불초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342143",
+    "SCHUL_NM": "선유도중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321181",
+    "SCHUL_NM": "설천고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412027",
+    "SCHUL_NM": "설천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412020",
+    "SCHUL_NM": "설천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432037",
+    "SCHUL_NM": "섬진중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452053",
+    "SCHUL_NM": "성내중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452039",
+    "SCHUL_NM": "성내초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352152",
+    "SCHUL_NM": "성당중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352123",
+    "SCHUL_NM": "성당초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382070",
+    "SCHUL_NM": "성덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352120",
+    "SCHUL_NM": "성북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342113",
+    "SCHUL_NM": "성산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452040",
+    "SCHUL_NM": "성송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432040",
+    "SCHUL_NM": "성수중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432026",
+    "SCHUL_NM": "성수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321157",
+    "SCHUL_NM": "성원고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321126",
+    "SCHUL_NM": "성일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321172",
+    "SCHUL_NM": "세인고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342102",
+    "SCHUL_NM": "소룡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362086",
+    "SCHUL_NM": "소성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362066",
+    "SCHUL_NM": "소성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392066",
+    "SCHUL_NM": "소양서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392080",
+    "SCHUL_NM": "소양중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392067",
+    "SCHUL_NM": "소양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392068",
+    "SCHUL_NM": "송광초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372069",
+    "SCHUL_NM": "송동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372052",
+    "SCHUL_NM": "송동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402028",
+    "SCHUL_NM": "송풍초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362075",
+    "SCHUL_NM": "수곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422014",
+    "SCHUL_NM": "수남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321268",
+    "SCHUL_NM": "수소에너지고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372053",
+    "SCHUL_NM": "수지초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321196",
+    "SCHUL_NM": "순창고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442041",
+    "SCHUL_NM": "순창북중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321195",
+    "SCHUL_NM": "순창제일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442020",
+    "SCHUL_NM": "순창중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442036",
+    "SCHUL_NM": "순창중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442021",
+    "SCHUL_NM": "순창초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342125",
+    "SCHUL_NM": "술산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442028",
+    "SCHUL_NM": "시산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452054",
+    "SCHUL_NM": "신림중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452042",
+    "SCHUL_NM": "신림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321142",
+    "SCHUL_NM": "신태인고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362094",
+    "SCHUL_NM": "신태인중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362057",
+    "SCHUL_NM": "신태인초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432029",
+    "SCHUL_NM": "신평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452055",
+    "SCHUL_NM": "심원중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452043",
+    "SCHUL_NM": "심원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442040",
+    "SCHUL_NM": "쌍치중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442029",
+    "SCHUL_NM": "쌍치초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452056",
+    "SCHUL_NM": "아산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452045",
+    "SCHUL_NM": "아산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372071",
+    "SCHUL_NM": "아영중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372054",
+    "SCHUL_NM": "아영초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321182",
+    "SCHUL_NM": "안성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412028",
+    "SCHUL_NM": "안성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412021",
+    "SCHUL_NM": "안성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321178",
+    "SCHUL_NM": "안천고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402038",
+    "SCHUL_NM": "안천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402027",
+    "SCHUL_NM": "안천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321083",
+    "SCHUL_NM": "양현고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321122",
+    "SCHUL_NM": "여산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352153",
+    "SCHUL_NM": "여산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352124",
+    "SCHUL_NM": "여산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352125",
+    "SCHUL_NM": "영만초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362048",
+    "SCHUL_NM": "영산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452060",
+    "SCHUL_NM": "영선중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362067",
+    "SCHUL_NM": "영원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462038",
+    "SCHUL_NM": "영전초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372055",
+    "SCHUL_NM": "오동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342127",
+    "SCHUL_NM": "오봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352126",
+    "SCHUL_NM": "오산남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352127",
+    "SCHUL_NM": "오산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432041",
+    "SCHUL_NM": "오수중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432030",
+    "SCHUL_NM": "오수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402018",
+    "SCHUL_NM": "오천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342141",
+    "SCHUL_NM": "옥구중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342104",
+    "SCHUL_NM": "옥구초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342124",
+    "SCHUL_NM": "옥봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342123",
+    "SCHUL_NM": "옥산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442022",
+    "SCHUL_NM": "옥천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362068",
+    "SCHUL_NM": "옹동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321092",
+    "SCHUL_NM": "완산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321093",
+    "SCHUL_NM": "완산여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332233",
+    "SCHUL_NM": "완산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321173",
+    "SCHUL_NM": "완주고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392074",
+    "SCHUL_NM": "완주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352128",
+    "SCHUL_NM": "왕궁남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352154",
+    "SCHUL_NM": "왕궁중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352129",
+    "SCHUL_NM": "왕궁초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352130",
+    "SCHUL_NM": "왕북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321143",
+    "SCHUL_NM": "왕신여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362095",
+    "SCHUL_NM": "왕신여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402026",
+    "SCHUL_NM": "외궁초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352132",
+    "SCHUL_NM": "용남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402039",
+    "SCHUL_NM": "용담중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382072",
+    "SCHUL_NM": "용동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392046",
+    "SCHUL_NM": "용봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372073",
+    "SCHUL_NM": "용북중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352133",
+    "SCHUL_NM": "용북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352139",
+    "SCHUL_NM": "용산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352118",
+    "SCHUL_NM": "용성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352155",
+    "SCHUL_NM": "용안중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352134",
+    "SCHUL_NM": "용안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382085",
+    "SCHUL_NM": "용지중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382073",
+    "SCHUL_NM": "용지초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392076",
+    "SCHUL_NM": "용진중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392052",
+    "SCHUL_NM": "용진초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462040",
+    "SCHUL_NM": "우덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321094",
+    "SCHUL_NM": "우석고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372064",
+    "SCHUL_NM": "운봉중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372041",
+    "SCHUL_NM": "운봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432032",
+    "SCHUL_NM": "운암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392082",
+    "SCHUL_NM": "운주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392069",
+    "SCHUL_NM": "운주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352156",
+    "SCHUL_NM": "웅포중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352135",
+    "SCHUL_NM": "웅포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321127",
+    "SCHUL_NM": "원광고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321129",
+    "SCHUL_NM": "원광보건고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321128",
+    "SCHUL_NM": "원광여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352162",
+    "SCHUL_NM": "원광여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352160",
+    "SCHUL_NM": "원광중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372059",
+    "SCHUL_NM": "원천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382060",
+    "SCHUL_NM": "원평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382050",
+    "SCHUL_NM": "월성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382051",
+    "SCHUL_NM": "월촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321205",
+    "SCHUL_NM": "위도고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462053",
+    "SCHUL_NM": "위도중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462041",
+    "SCHUL_NM": "위도초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442030",
+    "SCHUL_NM": "유등초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321095",
+    "SCHUL_NM": "유일여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352082",
+    "SCHUL_NM": "이리계문초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321119",
+    "SCHUL_NM": "이리고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352083",
+    "SCHUL_NM": "이리고현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321121",
+    "SCHUL_NM": "이리공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321130",
+    "SCHUL_NM": "이리남성여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352161",
+    "SCHUL_NM": "이리남성여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352142",
+    "SCHUL_NM": "이리남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352084",
+    "SCHUL_NM": "이리남창초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352085",
+    "SCHUL_NM": "이리남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352086",
+    "SCHUL_NM": "이리동남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352087",
+    "SCHUL_NM": "이리동북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352088",
+    "SCHUL_NM": "이리동산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352143",
+    "SCHUL_NM": "이리동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352089",
+    "SCHUL_NM": "이리동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352090",
+    "SCHUL_NM": "이리마한초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352091",
+    "SCHUL_NM": "이리모현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352092",
+    "SCHUL_NM": "이리백제초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352093",
+    "SCHUL_NM": "이리부송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352094",
+    "SCHUL_NM": "이리부천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352095",
+    "SCHUL_NM": "이리북일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352144",
+    "SCHUL_NM": "이리북중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352096",
+    "SCHUL_NM": "이리북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352097",
+    "SCHUL_NM": "이리삼성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352098",
+    "SCHUL_NM": "이리서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352099",
+    "SCHUL_NM": "이리석암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352100",
+    "SCHUL_NM": "이리송학초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352101",
+    "SCHUL_NM": "이리신동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352102",
+    "SCHUL_NM": "이리신흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321120",
+    "SCHUL_NM": "이리여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352145",
+    "SCHUL_NM": "이리영등중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352103",
+    "SCHUL_NM": "이리영등초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352104",
+    "SCHUL_NM": "이리중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352159",
+    "SCHUL_NM": "이리중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352105",
+    "SCHUL_NM": "이리초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352106",
+    "SCHUL_NM": "이리팔봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372056",
+    "SCHUL_NM": "이백초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392070",
+    "SCHUL_NM": "이서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392071",
+    "SCHUL_NM": "이성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321131",
+    "SCHUL_NM": "이일여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352163",
+    "SCHUL_NM": "이일여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362096",
+    "SCHUL_NM": "이평중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362069",
+    "SCHUL_NM": "이평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352107",
+    "SCHUL_NM": "익산가온초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321132",
+    "SCHUL_NM": "익산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352108",
+    "SCHUL_NM": "익산궁동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352146",
+    "SCHUL_NM": "익산부송중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352147",
+    "SCHUL_NM": "익산부천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352148",
+    "SCHUL_NM": "익산어양중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352109",
+    "SCHUL_NM": "익산어양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352110",
+    "SCHUL_NM": "익산옥야초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352165",
+    "SCHUL_NM": "익산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352149",
+    "SCHUL_NM": "익산지원중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352111",
+    "SCHUL_NM": "익산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352112",
+    "SCHUL_NM": "익산한벌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442031",
+    "SCHUL_NM": "인계초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321144",
+    "SCHUL_NM": "인상고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321152",
+    "SCHUL_NM": "인월고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372072",
+    "SCHUL_NM": "인월중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372057",
+    "SCHUL_NM": "인월초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321191",
+    "SCHUL_NM": "임실고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432020",
+    "SCHUL_NM": "임실기림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432036",
+    "SCHUL_NM": "임실동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432021",
+    "SCHUL_NM": "임실초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342142",
+    "SCHUL_NM": "임피중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342126",
+    "SCHUL_NM": "임피초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362087",
+    "SCHUL_NM": "입암중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362071",
+    "SCHUL_NM": "입암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321237",
+    "SCHUL_NM": "자유고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452059",
+    "SCHUL_NM": "자유중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422028",
+    "SCHUL_NM": "장계중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422021",
+    "SCHUL_NM": "장계초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321186",
+    "SCHUL_NM": "장수고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422023",
+    "SCHUL_NM": "장수중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422015",
+    "SCHUL_NM": "장수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402025",
+    "SCHUL_NM": "장승초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412029",
+    "SCHUL_NM": "적상중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8412023",
+    "SCHUL_NM": "적상초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442032",
+    "SCHUL_NM": "적성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321080",
+    "SCHUL_NM": "전라고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332195",
+    "SCHUL_NM": "전라중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321219",
+    "SCHUL_NM": "전북-고등학교입학자격검정고시"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321220",
+    "SCHUL_NM": "전북-고등학교졸업자격검정고시"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321124",
+    "SCHUL_NM": "전북과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전라북도교육청",
+    "SD_SCHUL_CODE": "1421118",
+    "SCHUL_NM": "전북기계공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전라북도교육청",
+    "SD_SCHUL_CODE": "7003982",
+    "SCHUL_NM": "전북대학교사범대학부설고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362090",
+    "SCHUL_NM": "전북동화중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321228",
+    "SCHUL_NM": "전북맹아학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321235",
+    "SCHUL_NM": "전북베이커리고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321096",
+    "SCHUL_NM": "전북여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321232",
+    "SCHUL_NM": "전북온라인학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321114",
+    "SCHUL_NM": "전북외국어고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321187",
+    "SCHUL_NM": "전북유니텍고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321270",
+    "SCHUL_NM": "전북인공지능고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321133",
+    "SCHUL_NM": "전북제일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332227",
+    "SCHUL_NM": "전북중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321171",
+    "SCHUL_NM": "전북체육고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392081",
+    "SCHUL_NM": "전북체육중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321234",
+    "SCHUL_NM": "전북펫고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321230",
+    "SCHUL_NM": "전북푸른학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321229",
+    "SCHUL_NM": "전북혜화학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321097",
+    "SCHUL_NM": "전일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332196",
+    "SCHUL_NM": "전일중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321079",
+    "SCHUL_NM": "전주고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321210",
+    "SCHUL_NM": "전주고등학교부설방송통신고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332213",
+    "SCHUL_NM": "전주곤지중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321088",
+    "SCHUL_NM": "전주공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전라북도교육청",
+    "SD_SCHUL_CODE": "7005348",
+    "SCHUL_NM": "전주교육대학교군산부설초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전라북도교육청",
+    "SD_SCHUL_CODE": "7005347",
+    "SCHUL_NM": "전주교육대학교전주부설초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321098",
+    "SCHUL_NM": "전주근영여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332228",
+    "SCHUL_NM": "전주근영중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332121",
+    "SCHUL_NM": "전주금암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332122",
+    "SCHUL_NM": "전주금평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332197",
+    "SCHUL_NM": "전주기린중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332123",
+    "SCHUL_NM": "전주기린초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321099",
+    "SCHUL_NM": "전주기전여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332229",
+    "SCHUL_NM": "전주기전중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332214",
+    "SCHUL_NM": "전주남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332157",
+    "SCHUL_NM": "전주남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332158",
+    "SCHUL_NM": "전주대성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332159",
+    "SCHUL_NM": "전주대정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321091",
+    "SCHUL_NM": "전주대학교사범대학부설고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332198",
+    "SCHUL_NM": "전주덕일중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332237",
+    "SCHUL_NM": "전주덕일중학교부설방송통신중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332124",
+    "SCHUL_NM": "전주덕일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332230",
+    "SCHUL_NM": "전주덕진중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332125",
+    "SCHUL_NM": "전주덕진초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332126",
+    "SCHUL_NM": "전주동북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332127",
+    "SCHUL_NM": "전주동신초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332199",
+    "SCHUL_NM": "전주동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332160",
+    "SCHUL_NM": "전주동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332226",
+    "SCHUL_NM": "전주만성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332128",
+    "SCHUL_NM": "전주만성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332129",
+    "SCHUL_NM": "전주만수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332161",
+    "SCHUL_NM": "전주문정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332162",
+    "SCHUL_NM": "전주문학초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332130",
+    "SCHUL_NM": "전주미산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332131",
+    "SCHUL_NM": "전주반월초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332132",
+    "SCHUL_NM": "전주북일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332133",
+    "SCHUL_NM": "전주북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332163",
+    "SCHUL_NM": "전주삼천남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332164",
+    "SCHUL_NM": "전주삼천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321087",
+    "SCHUL_NM": "전주상업정보고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332165",
+    "SCHUL_NM": "전주새연초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321085",
+    "SCHUL_NM": "전주생명과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332215",
+    "SCHUL_NM": "전주서곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332166",
+    "SCHUL_NM": "전주서곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332167",
+    "SCHUL_NM": "전주서문초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332216",
+    "SCHUL_NM": "전주서신중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332168",
+    "SCHUL_NM": "전주서신초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332169",
+    "SCHUL_NM": "전주서원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332170",
+    "SCHUL_NM": "전주서일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332217",
+    "SCHUL_NM": "전주서중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332171",
+    "SCHUL_NM": "전주서천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321222",
+    "SCHUL_NM": "전주선화학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321100",
+    "SCHUL_NM": "전주성심여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332231",
+    "SCHUL_NM": "전주성심여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321082",
+    "SCHUL_NM": "전주솔내고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332200",
+    "SCHUL_NM": "전주솔빛중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332134",
+    "SCHUL_NM": "전주송북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332135",
+    "SCHUL_NM": "전주송원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332136",
+    "SCHUL_NM": "전주송천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332137",
+    "SCHUL_NM": "전주신동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332172",
+    "SCHUL_NM": "전주신성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332218",
+    "SCHUL_NM": "전주신일중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321101",
+    "SCHUL_NM": "전주신흥고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332232",
+    "SCHUL_NM": "전주신흥중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332201",
+    "SCHUL_NM": "전주아중중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332138",
+    "SCHUL_NM": "전주아중초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332219",
+    "SCHUL_NM": "전주양지중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332173",
+    "SCHUL_NM": "전주양지초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332202",
+    "SCHUL_NM": "전주양현중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332139",
+    "SCHUL_NM": "전주양현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332174",
+    "SCHUL_NM": "전주여울초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321081",
+    "SCHUL_NM": "전주여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321211",
+    "SCHUL_NM": "전주여자고등학교부설방송통신고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321102",
+    "SCHUL_NM": "전주영생고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321174",
+    "SCHUL_NM": "전주예술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392085",
+    "SCHUL_NM": "전주예술중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332203",
+    "SCHUL_NM": "전주오송중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332140",
+    "SCHUL_NM": "전주오송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332204",
+    "SCHUL_NM": "전주온고을중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332205",
+    "SCHUL_NM": "전주온빛중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332141",
+    "SCHUL_NM": "전주온빛초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332175",
+    "SCHUL_NM": "전주완산서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332176",
+    "SCHUL_NM": "전주완산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332142",
+    "SCHUL_NM": "전주용덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332206",
+    "SCHUL_NM": "전주용소중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332143",
+    "SCHUL_NM": "전주용소초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332177",
+    "SCHUL_NM": "전주용와초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332242",
+    "SCHUL_NM": "전주용흥중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332178",
+    "SCHUL_NM": "전주용흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332221",
+    "SCHUL_NM": "전주우림중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332179",
+    "SCHUL_NM": "전주우림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332207",
+    "SCHUL_NM": "전주우아중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332222",
+    "SCHUL_NM": "전주우전중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332180",
+    "SCHUL_NM": "전주우전초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332144",
+    "SCHUL_NM": "전주원동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321221",
+    "SCHUL_NM": "전주유화학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321223",
+    "SCHUL_NM": "전주은화학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332145",
+    "SCHUL_NM": "전주인봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332146",
+    "SCHUL_NM": "전주인후초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332147",
+    "SCHUL_NM": "전주자연초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332148",
+    "SCHUL_NM": "전주장동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332149",
+    "SCHUL_NM": "전주전라초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332150",
+    "SCHUL_NM": "전주전일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321086",
+    "SCHUL_NM": "전주제일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332151",
+    "SCHUL_NM": "전주조촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332181",
+    "SCHUL_NM": "전주중산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321103",
+    "SCHUL_NM": "전주중앙여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332208",
+    "SCHUL_NM": "전주중앙중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332182",
+    "SCHUL_NM": "전주중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332183",
+    "SCHUL_NM": "전주중인초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332209",
+    "SCHUL_NM": "전주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332184",
+    "SCHUL_NM": "전주지곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332152",
+    "SCHUL_NM": "전주진북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332185",
+    "SCHUL_NM": "전주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332153",
+    "SCHUL_NM": "전주초포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332154",
+    "SCHUL_NM": "전주팔복초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332223",
+    "SCHUL_NM": "전주평화중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332186",
+    "SCHUL_NM": "전주평화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332224",
+    "SCHUL_NM": "전주풍남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332187",
+    "SCHUL_NM": "전주풍남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332155",
+    "SCHUL_NM": "전주하가초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332188",
+    "SCHUL_NM": "전주한들초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321104",
+    "SCHUL_NM": "전주한일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321105",
+    "SCHUL_NM": "전주해성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332234",
+    "SCHUL_NM": "전주해성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332210",
+    "SCHUL_NM": "전주호성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332189",
+    "SCHUL_NM": "전주홍산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332190",
+    "SCHUL_NM": "전주화산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332211",
+    "SCHUL_NM": "전주화정중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332156",
+    "SCHUL_NM": "전주화정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332191",
+    "SCHUL_NM": "전주효림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332235",
+    "SCHUL_NM": "전주효문중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332192",
+    "SCHUL_NM": "전주효문초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332193",
+    "SCHUL_NM": "전주효자초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332225",
+    "SCHUL_NM": "전주효정중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332194",
+    "SCHUL_NM": "전주효천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362072",
+    "SCHUL_NM": "정남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362084",
+    "SCHUL_NM": "정산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362088",
+    "SCHUL_NM": "정우중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362073",
+    "SCHUL_NM": "정우초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321136",
+    "SCHUL_NM": "정읍고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362049",
+    "SCHUL_NM": "정읍남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362050",
+    "SCHUL_NM": "정읍동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362051",
+    "SCHUL_NM": "정읍북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362052",
+    "SCHUL_NM": "정읍서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362053",
+    "SCHUL_NM": "정읍수성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321137",
+    "SCHUL_NM": "정읍여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321138",
+    "SCHUL_NM": "정읍제일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362080",
+    "SCHUL_NM": "정읍중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362054",
+    "SCHUL_NM": "정읍초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362081",
+    "SCHUL_NM": "정일중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362055",
+    "SCHUL_NM": "정일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321145",
+    "SCHUL_NM": "정주고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402029",
+    "SCHUL_NM": "조림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382066",
+    "SCHUL_NM": "종정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462043",
+    "SCHUL_NM": "주산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8372058",
+    "SCHUL_NM": "주생초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402040",
+    "SCHUL_NM": "주천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402030",
+    "SCHUL_NM": "주천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382074",
+    "SCHUL_NM": "죽산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321204",
+    "SCHUL_NM": "줄포자동차공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462055",
+    "SCHUL_NM": "줄포중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462044",
+    "SCHUL_NM": "줄포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432043",
+    "SCHUL_NM": "지사중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432033",
+    "SCHUL_NM": "지사초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321167",
+    "SCHUL_NM": "지평선고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382092",
+    "SCHUL_NM": "지평선중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321134",
+    "SCHUL_NM": "진경여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352167",
+    "SCHUL_NM": "진경여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382076",
+    "SCHUL_NM": "진봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332238",
+    "SCHUL_NM": "진북고등공민학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402037",
+    "SCHUL_NM": "진성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402031",
+    "SCHUL_NM": "진안여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321177",
+    "SCHUL_NM": "진안제일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402019",
+    "SCHUL_NM": "진안중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402032",
+    "SCHUL_NM": "진안중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8402020",
+    "SCHUL_NM": "진안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462031",
+    "SCHUL_NM": "창북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342114",
+    "SCHUL_NM": "창오초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352136",
+    "SCHUL_NM": "천서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422029",
+    "SCHUL_NM": "천천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8422022",
+    "SCHUL_NM": "천천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392059",
+    "SCHUL_NM": "청명초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392047",
+    "SCHUL_NM": "청완초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382057",
+    "SCHUL_NM": "청운초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432044",
+    "SCHUL_NM": "청웅중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432034",
+    "SCHUL_NM": "청웅초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382086",
+    "SCHUL_NM": "청하중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382077",
+    "SCHUL_NM": "청하초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382068",
+    "SCHUL_NM": "초처초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352137",
+    "SCHUL_NM": "춘포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382065",
+    "SCHUL_NM": "치문초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321139",
+    "SCHUL_NM": "칠보고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362089",
+    "SCHUL_NM": "칠보중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362076",
+    "SCHUL_NM": "칠보초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392060",
+    "SCHUL_NM": "태봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321146",
+    "SCHUL_NM": "태인고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362097",
+    "SCHUL_NM": "태인중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362077",
+    "SCHUL_NM": "태인초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442033",
+    "SCHUL_NM": "팔덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321185",
+    "SCHUL_NM": "푸른꿈고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8442034",
+    "SCHUL_NM": "풍산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462057",
+    "SCHUL_NM": "하서중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462047",
+    "SCHUL_NM": "하서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321241",
+    "SCHUL_NM": "학력인정군산평화고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342150",
+    "SCHUL_NM": "학력인정군산평화중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321243",
+    "SCHUL_NM": "학력인정남일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362100",
+    "SCHUL_NM": "학력인정남일중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362099",
+    "SCHUL_NM": "학력인정남일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321217",
+    "SCHUL_NM": "학력인정인화고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432045",
+    "SCHUL_NM": "학력인정인화중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8432035",
+    "SCHUL_NM": "학력인정인화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321242",
+    "SCHUL_NM": "학력인정전북특별자치도립여성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8332241",
+    "SCHUL_NM": "학력인정전북특별자치도립여성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321239",
+    "SCHUL_NM": "학력인정진북고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321240",
+    "SCHUL_NM": "학력인정진북고등학교(2년제)"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362092",
+    "SCHUL_NM": "학산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321175",
+    "SCHUL_NM": "한국게임과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321153",
+    "SCHUL_NM": "한국경마축산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321233",
+    "SCHUL_NM": "한국기술부사관고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321190",
+    "SCHUL_NM": "한국마사고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321084",
+    "SCHUL_NM": "한국전통문화고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321193",
+    "SCHUL_NM": "한국치즈과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321180",
+    "SCHUL_NM": "한국한방고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321113",
+    "SCHUL_NM": "한들고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382080",
+    "SCHUL_NM": "한들중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321169",
+    "SCHUL_NM": "한별고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362056",
+    "SCHUL_NM": "한솔초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321225",
+    "SCHUL_NM": "한울학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352157",
+    "SCHUL_NM": "함라중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352138",
+    "SCHUL_NM": "함라초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321123",
+    "SCHUL_NM": "함열고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321135",
+    "SCHUL_NM": "함열여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352164",
+    "SCHUL_NM": "함열여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352150",
+    "SCHUL_NM": "함열중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352114",
+    "SCHUL_NM": "함열초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321198",
+    "SCHUL_NM": "해리고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452057",
+    "SCHUL_NM": "해리중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452047",
+    "SCHUL_NM": "해리초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342103",
+    "SCHUL_NM": "해성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8462048",
+    "SCHUL_NM": "행안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321148",
+    "SCHUL_NM": "호남고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8321106",
+    "SCHUL_NM": "호남제일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8362093",
+    "SCHUL_NM": "호남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392084",
+    "SCHUL_NM": "화산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8392072",
+    "SCHUL_NM": "화산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382054",
+    "SCHUL_NM": "황강초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352140",
+    "SCHUL_NM": "황등남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352166",
+    "SCHUL_NM": "황등중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352141",
+    "SCHUL_NM": "황등초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8382079",
+    "SCHUL_NM": "황산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342144",
+    "SCHUL_NM": "회현중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8342128",
+    "SCHUL_NM": "회현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452058",
+    "SCHUL_NM": "흥덕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8452048",
+    "SCHUL_NM": "흥덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "P10",
+    "ATPT_OFCDC_SC_NM": "전북특별자치도교육청",
+    "SD_SCHUL_CODE": "8352131",
+    "SCHUL_NM": "흥왕초등학교"
+  }
+]

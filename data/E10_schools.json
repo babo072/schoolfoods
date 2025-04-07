@@ -1,0 +1,3446 @@
+[
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310207",
+    "SCHUL_NM": "가림고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310035",
+    "SCHUL_NM": "가정고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361075",
+    "SCHUL_NM": "가정여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310217",
+    "SCHUL_NM": "가좌고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361077",
+    "SCHUL_NM": "가좌중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341066",
+    "SCHUL_NM": "간석여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361078",
+    "SCHUL_NM": "간재울중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331053",
+    "SCHUL_NM": "갈산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351006",
+    "SCHUL_NM": "갑룡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310346",
+    "SCHUL_NM": "강남영상미디어고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351029",
+    "SCHUL_NM": "강남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351030",
+    "SCHUL_NM": "강서중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310036",
+    "SCHUL_NM": "강화고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310201",
+    "SCHUL_NM": "강화여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351031",
+    "SCHUL_NM": "강화여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351032",
+    "SCHUL_NM": "강화중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351007",
+    "SCHUL_NM": "강화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310203",
+    "SCHUL_NM": "검단고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361079",
+    "SCHUL_NM": "검단중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361080",
+    "SCHUL_NM": "검암중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310629",
+    "SCHUL_NM": "결마루미래학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "       ",
+    "SCHUL_NM": "결마루미래학교(중)"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7004258",
+    "SCHUL_NM": "경인교육대학교부설초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310037",
+    "SCHUL_NM": "계산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310090",
+    "SCHUL_NM": "계산공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310038",
+    "SCHUL_NM": "계산여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331211",
+    "SCHUL_NM": "계산여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331212",
+    "SCHUL_NM": "계산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310039",
+    "SCHUL_NM": "계양고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331213",
+    "SCHUL_NM": "계양중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321069",
+    "SCHUL_NM": "관교여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321070",
+    "SCHUL_NM": "관교중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310067",
+    "SCHUL_NM": "광성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321091",
+    "SCHUL_NM": "광성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310189",
+    "SCHUL_NM": "교동고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351033",
+    "SCHUL_NM": "교동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351008",
+    "SCHUL_NM": "교동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331054",
+    "SCHUL_NM": "구산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341067",
+    "SCHUL_NM": "구월여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341279",
+    "SCHUL_NM": "구월여자중학교부설방송통신중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341068",
+    "SCHUL_NM": "구월중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351009",
+    "SCHUL_NM": "길상초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341069",
+    "SCHUL_NM": "남동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321071",
+    "SCHUL_NM": "남인천여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351011",
+    "SCHUL_NM": "내가초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341070",
+    "SCHUL_NM": "논곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341071",
+    "SCHUL_NM": "능허대중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351012",
+    "SCHUL_NM": "대월초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310069",
+    "SCHUL_NM": "대인고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310041",
+    "SCHUL_NM": "대청고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321072",
+    "SCHUL_NM": "대청중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321012",
+    "SCHUL_NM": "대청초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310070",
+    "SCHUL_NM": "덕신고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310042",
+    "SCHUL_NM": "덕적고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321073",
+    "SCHUL_NM": "덕적중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321013",
+    "SCHUL_NM": "덕적초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310220",
+    "SCHUL_NM": "도림고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351037",
+    "SCHUL_NM": "동광중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310071",
+    "SCHUL_NM": "동산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321092",
+    "SCHUL_NM": "동산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331055",
+    "SCHUL_NM": "동암중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310043",
+    "SCHUL_NM": "동인천고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361084",
+    "SCHUL_NM": "동인천여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341072",
+    "SCHUL_NM": "동인천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361074",
+    "SCHUL_NM": "마전중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341073",
+    "SCHUL_NM": "만성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341074",
+    "SCHUL_NM": "만수북중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341075",
+    "SCHUL_NM": "만수여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341076",
+    "SCHUL_NM": "만수중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341077",
+    "SCHUL_NM": "만월중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310072",
+    "SCHUL_NM": "명신여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351013",
+    "SCHUL_NM": "명신초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331214",
+    "SCHUL_NM": "명현중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310626",
+    "SCHUL_NM": "문곡고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310073",
+    "SCHUL_NM": "문일여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310192",
+    "SCHUL_NM": "문학정보고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "       ",
+    "SCHUL_NM": "미단초등학교(개교예정)"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310350",
+    "SCHUL_NM": "미추홀외국어고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310338",
+    "SCHUL_NM": "미추홀학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310427",
+    "SCHUL_NM": "박문여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341256",
+    "SCHUL_NM": "박문중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310403",
+    "SCHUL_NM": "백령고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321074",
+    "SCHUL_NM": "백령중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321014",
+    "SCHUL_NM": "백령초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310044",
+    "SCHUL_NM": "백석고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361087",
+    "SCHUL_NM": "백석중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310219",
+    "SCHUL_NM": "부개고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310045",
+    "SCHUL_NM": "부개여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310046",
+    "SCHUL_NM": "부광고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310047",
+    "SCHUL_NM": "부광여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331056",
+    "SCHUL_NM": "부광중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331057",
+    "SCHUL_NM": "부원여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331058",
+    "SCHUL_NM": "부원중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331060",
+    "SCHUL_NM": "부일중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310048",
+    "SCHUL_NM": "부평고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310093",
+    "SCHUL_NM": "부평공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331061",
+    "SCHUL_NM": "부평동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331062",
+    "SCHUL_NM": "부평서여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331063",
+    "SCHUL_NM": "부평서중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310049",
+    "SCHUL_NM": "부평여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331064",
+    "SCHUL_NM": "부평여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331065",
+    "SCHUL_NM": "부평중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331066",
+    "SCHUL_NM": "부흥중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331215",
+    "SCHUL_NM": "북인천여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331216",
+    "SCHUL_NM": "북인천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321015",
+    "SCHUL_NM": "북포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361090",
+    "SCHUL_NM": "불로중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351014",
+    "SCHUL_NM": "불은초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331067",
+    "SCHUL_NM": "산곡남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331068",
+    "SCHUL_NM": "산곡여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331069",
+    "SCHUL_NM": "산곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310212",
+    "SCHUL_NM": "산마을고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310190",
+    "SCHUL_NM": "삼산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331070",
+    "SCHUL_NM": "삼산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351015",
+    "SCHUL_NM": "삼산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351016",
+    "SCHUL_NM": "삼성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341078",
+    "SCHUL_NM": "상인천여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341079",
+    "SCHUL_NM": "상인천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341012",
+    "SCHUL_NM": "상인천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361091",
+    "SCHUL_NM": "서곶중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310050",
+    "SCHUL_NM": "서도고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351034",
+    "SCHUL_NM": "서도중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351017",
+    "SCHUL_NM": "서도초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310204",
+    "SCHUL_NM": "서운고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331217",
+    "SCHUL_NM": "서운중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310075",
+    "SCHUL_NM": "서인천고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310051",
+    "SCHUL_NM": "석정여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341080",
+    "SCHUL_NM": "석정중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351019",
+    "SCHUL_NM": "선원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310052",
+    "SCHUL_NM": "선인고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321075",
+    "SCHUL_NM": "선인중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341081",
+    "SCHUL_NM": "선학중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321076",
+    "SCHUL_NM": "선화여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310630",
+    "SCHUL_NM": "세계로국제중고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "       ",
+    "SCHUL_NM": "세계로국제중고등학교(중)"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310077",
+    "SCHUL_NM": "세일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310078",
+    "SCHUL_NM": "송도고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321094",
+    "SCHUL_NM": "송도중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351020",
+    "SCHUL_NM": "송해초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310079",
+    "SCHUL_NM": "숭덕여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341100",
+    "SCHUL_NM": "숭덕여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351069",
+    "SCHUL_NM": "승영중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310080",
+    "SCHUL_NM": "신명여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310250",
+    "SCHUL_NM": "신송고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341082",
+    "SCHUL_NM": "신송중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361093",
+    "SCHUL_NM": "신현여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361094",
+    "SCHUL_NM": "신현중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321077",
+    "SCHUL_NM": "신흥여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321078",
+    "SCHUL_NM": "신흥중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351036",
+    "SCHUL_NM": "심도중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310214",
+    "SCHUL_NM": "안남고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351021",
+    "SCHUL_NM": "양도초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351022",
+    "SCHUL_NM": "양사초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341083",
+    "SCHUL_NM": "연성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310053",
+    "SCHUL_NM": "연수고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310054",
+    "SCHUL_NM": "연수여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341084",
+    "SCHUL_NM": "연수중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310055",
+    "SCHUL_NM": "연평고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321079",
+    "SCHUL_NM": "연평중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321016",
+    "SCHUL_NM": "연평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341085",
+    "SCHUL_NM": "연화중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310261",
+    "SCHUL_NM": "영종국제물류고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321080",
+    "SCHUL_NM": "영종중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310560",
+    "SCHUL_NM": "영화국제관광고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321066",
+    "SCHUL_NM": "영화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321081",
+    "SCHUL_NM": "영흥중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321017",
+    "SCHUL_NM": "영흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310216",
+    "SCHUL_NM": "옥련여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341086",
+    "SCHUL_NM": "옥련중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321082",
+    "SCHUL_NM": "용유중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321083",
+    "SCHUL_NM": "용현여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321084",
+    "SCHUL_NM": "용현중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361095",
+    "SCHUL_NM": "원당중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310082",
+    "SCHUL_NM": "인명여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310083",
+    "SCHUL_NM": "인성여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321095",
+    "SCHUL_NM": "인성여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321068",
+    "SCHUL_NM": "인성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341087",
+    "SCHUL_NM": "인송중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310056",
+    "SCHUL_NM": "인일여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310084",
+    "SCHUL_NM": "인제고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321085",
+    "SCHUL_NM": "인주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361016",
+    "SCHUL_NM": "인천가림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361020",
+    "SCHUL_NM": "인천가석초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361296",
+    "SCHUL_NM": "인천가원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361021",
+    "SCHUL_NM": "인천가정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361076",
+    "SCHUL_NM": "인천가좌여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361022",
+    "SCHUL_NM": "인천가좌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361103",
+    "SCHUL_NM": "인천가현중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361023",
+    "SCHUL_NM": "인천가현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341013",
+    "SCHUL_NM": "인천간석초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361062",
+    "SCHUL_NM": "인천간재울초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331011",
+    "SCHUL_NM": "인천갈산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331012",
+    "SCHUL_NM": "인천갈월초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331013",
+    "SCHUL_NM": "인천개흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361024",
+    "SCHUL_NM": "인천건지초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361025",
+    "SCHUL_NM": "인천검단초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361026",
+    "SCHUL_NM": "인천검암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361252",
+    "SCHUL_NM": "인천경명초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361012",
+    "SCHUL_NM": "인천경서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361310",
+    "SCHUL_NM": "인천경연중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361309",
+    "SCHUL_NM": "인천경연초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321018",
+    "SCHUL_NM": "인천경원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331185",
+    "SCHUL_NM": "인천계산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331218",
+    "SCHUL_NM": "인천계수중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331186",
+    "SCHUL_NM": "인천계양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331247",
+    "SCHUL_NM": "인천계양초등학교상야분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310057",
+    "SCHUL_NM": "인천고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310348",
+    "SCHUL_NM": "인천고잔고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341088",
+    "SCHUL_NM": "인천고잔중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341014",
+    "SCHUL_NM": "인천고잔초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361249",
+    "SCHUL_NM": "인천공촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310205",
+    "SCHUL_NM": "인천공항고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321086",
+    "SCHUL_NM": "인천공항중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321019",
+    "SCHUL_NM": "인천공항초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321059",
+    "SCHUL_NM": "인천공항초등학교신도분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310058",
+    "SCHUL_NM": "인천과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310449",
+    "SCHUL_NM": "인천과학예술영재학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321020",
+    "SCHUL_NM": "인천관교초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331014",
+    "SCHUL_NM": "인천구산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341015",
+    "SCHUL_NM": "인천구월서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341016",
+    "SCHUL_NM": "인천구월초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310334",
+    "SCHUL_NM": "인천국제고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331015",
+    "SCHUL_NM": "인천굴포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331188",
+    "SCHUL_NM": "인천귤현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361029",
+    "SCHUL_NM": "인천금곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331016",
+    "SCHUL_NM": "인천금마초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310475",
+    "SCHUL_NM": "인천금융고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310100",
+    "SCHUL_NM": "인천기계공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331189",
+    "SCHUL_NM": "인천길주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310059",
+    "SCHUL_NM": "인천남고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310339",
+    "SCHUL_NM": "인천남동고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341017",
+    "SCHUL_NM": "인천남동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321021",
+    "SCHUL_NM": "인천남부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321060",
+    "SCHUL_NM": "인천남부초등학교이작분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321087",
+    "SCHUL_NM": "인천남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341018",
+    "SCHUL_NM": "인천남촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341019",
+    "SCHUL_NM": "인천논곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310256",
+    "SCHUL_NM": "인천논현고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341089",
+    "SCHUL_NM": "인천논현중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341020",
+    "SCHUL_NM": "인천논현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361070",
+    "SCHUL_NM": "인천능내초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341021",
+    "SCHUL_NM": "인천능허대초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361031",
+    "SCHUL_NM": "인천단봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341022",
+    "SCHUL_NM": "인천담방초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331190",
+    "SCHUL_NM": "인천당산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361101",
+    "SCHUL_NM": "인천당하중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361032",
+    "SCHUL_NM": "인천당하초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310068",
+    "SCHUL_NM": "인천대건고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331017",
+    "SCHUL_NM": "인천대정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310563",
+    "SCHUL_NM": "인천대중예술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321022",
+    "SCHUL_NM": "인천대화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361291",
+    "SCHUL_NM": "인천도담초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341023",
+    "SCHUL_NM": "인천도림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321023",
+    "SCHUL_NM": "인천도화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341024",
+    "SCHUL_NM": "인천동막초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321067",
+    "SCHUL_NM": "인천동명초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341090",
+    "SCHUL_NM": "인천동방중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341025",
+    "SCHUL_NM": "인천동방초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341026",
+    "SCHUL_NM": "인천동부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331246",
+    "SCHUL_NM": "인천동수중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331018",
+    "SCHUL_NM": "인천동수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331019",
+    "SCHUL_NM": "인천동암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331219",
+    "SCHUL_NM": "인천동양중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341027",
+    "SCHUL_NM": "인천동춘초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310191",
+    "SCHUL_NM": "인천디자인고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361329",
+    "SCHUL_NM": "인천루원중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331020",
+    "SCHUL_NM": "인천마곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331021",
+    "SCHUL_NM": "인천마장초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310452",
+    "SCHUL_NM": "인천마전고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361064",
+    "SCHUL_NM": "인천마전초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321024",
+    "SCHUL_NM": "인천만석초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310332",
+    "SCHUL_NM": "인천만수고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341028",
+    "SCHUL_NM": "인천만수북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341029",
+    "SCHUL_NM": "인천만수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341030",
+    "SCHUL_NM": "인천만월초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341031",
+    "SCHUL_NM": "인천먼우금초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341234",
+    "SCHUL_NM": "인천명선초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331191",
+    "SCHUL_NM": "인천명현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361065",
+    "SCHUL_NM": "인천목향초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341032",
+    "SCHUL_NM": "인천문남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321025",
+    "SCHUL_NM": "인천문학초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310480",
+    "SCHUL_NM": "인천미래생활고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331022",
+    "SCHUL_NM": "인천미산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341310",
+    "SCHUL_NM": "인천미송중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341291",
+    "SCHUL_NM": "인천미송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310593",
+    "SCHUL_NM": "인천바이오과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341065",
+    "SCHUL_NM": "인천박문초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310624",
+    "SCHUL_NM": "인천반도체고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361033",
+    "SCHUL_NM": "인천발산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361034",
+    "SCHUL_NM": "인천백석초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331023",
+    "SCHUL_NM": "인천백운초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321026",
+    "SCHUL_NM": "인천백학초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321228",
+    "SCHUL_NM": "인천별빛초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331192",
+    "SCHUL_NM": "인천병방초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310455",
+    "SCHUL_NM": "인천보건고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361036",
+    "SCHUL_NM": "인천봉수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361018",
+    "SCHUL_NM": "인천봉화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331024",
+    "SCHUL_NM": "인천부개서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331025",
+    "SCHUL_NM": "인천부개초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331026",
+    "SCHUL_NM": "인천부곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331027",
+    "SCHUL_NM": "인천부광초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331028",
+    "SCHUL_NM": "인천부내초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331029",
+    "SCHUL_NM": "인천부마초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331030",
+    "SCHUL_NM": "인천부원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331031",
+    "SCHUL_NM": "인천부일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331032",
+    "SCHUL_NM": "인천부평남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331033",
+    "SCHUL_NM": "인천부평동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331034",
+    "SCHUL_NM": "인천부평북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331035",
+    "SCHUL_NM": "인천부평서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331193",
+    "SCHUL_NM": "인천부평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331194",
+    "SCHUL_NM": "인천부현동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331195",
+    "SCHUL_NM": "인천부현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310248",
+    "SCHUL_NM": "인천부흥고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331036",
+    "SCHUL_NM": "인천부흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361040",
+    "SCHUL_NM": "인천불로초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310453",
+    "SCHUL_NM": "인천뷰티예술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310345",
+    "SCHUL_NM": "인천비즈니스고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341223",
+    "SCHUL_NM": "인천사리울중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341220",
+    "SCHUL_NM": "인천사리울초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310257",
+    "SCHUL_NM": "인천산곡고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331037",
+    "SCHUL_NM": "인천산곡남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331038",
+    "SCHUL_NM": "인천산곡북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331039",
+    "SCHUL_NM": "인천산곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310245",
+    "SCHUL_NM": "인천산업정보학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321027",
+    "SCHUL_NM": "인천삼목초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321061",
+    "SCHUL_NM": "인천삼목초등학교장봉분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331040",
+    "SCHUL_NM": "인천삼산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341033",
+    "SCHUL_NM": "인천상아초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310342",
+    "SCHUL_NM": "인천상정고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331071",
+    "SCHUL_NM": "인천상정중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331041",
+    "SCHUL_NM": "인천상정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341034",
+    "SCHUL_NM": "인천새말초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341301",
+    "SCHUL_NM": "인천새봄초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310193",
+    "SCHUL_NM": "인천생활과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361041",
+    "SCHUL_NM": "인천서곶초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321028",
+    "SCHUL_NM": "인천서림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341035",
+    "SCHUL_NM": "인천서면초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331196",
+    "SCHUL_NM": "인천서운초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341091",
+    "SCHUL_NM": "인천서창중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341036",
+    "SCHUL_NM": "인천서창초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321029",
+    "SCHUL_NM": "인천서화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321030",
+    "SCHUL_NM": "인천서흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310555",
+    "SCHUL_NM": "인천서희학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361043",
+    "SCHUL_NM": "인천석남서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361105",
+    "SCHUL_NM": "인천석남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361044",
+    "SCHUL_NM": "인천석남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321031",
+    "SCHUL_NM": "인천석암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341037",
+    "SCHUL_NM": "인천석정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341038",
+    "SCHUL_NM": "인천석천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341039",
+    "SCHUL_NM": "인천선학초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310152",
+    "SCHUL_NM": "인천성동학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341092",
+    "SCHUL_NM": "인천성리중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341040",
+    "SCHUL_NM": "인천성리초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331197",
+    "SCHUL_NM": "인천성지초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310369",
+    "SCHUL_NM": "인천세원고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341041",
+    "SCHUL_NM": "인천소래초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310592",
+    "SCHUL_NM": "인천소방고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331198",
+    "SCHUL_NM": "인천소양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341308",
+    "SCHUL_NM": "인천송담초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341042",
+    "SCHUL_NM": "인천송도초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321032",
+    "SCHUL_NM": "인천송림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341253",
+    "SCHUL_NM": "인천송명초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341313",
+    "SCHUL_NM": "인천송빛초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341243",
+    "SCHUL_NM": "인천송원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321033",
+    "SCHUL_NM": "인천송월초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341271",
+    "SCHUL_NM": "인천송일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310373",
+    "SCHUL_NM": "인천송천고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341221",
+    "SCHUL_NM": "인천송천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321034",
+    "SCHUL_NM": "인천송현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321035",
+    "SCHUL_NM": "인천숭의초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321036",
+    "SCHUL_NM": "인천승학초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321037",
+    "SCHUL_NM": "인천신광초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331199",
+    "SCHUL_NM": "인천신대초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361047",
+    "SCHUL_NM": "인천신석초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321038",
+    "SCHUL_NM": "인천신선초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341043",
+    "SCHUL_NM": "인천신송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341044",
+    "SCHUL_NM": "인천신월초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341224",
+    "SCHUL_NM": "인천신정중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341045",
+    "SCHUL_NM": "인천신정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331042",
+    "SCHUL_NM": "인천신촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310333",
+    "SCHUL_NM": "인천신현고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361048",
+    "SCHUL_NM": "인천신현북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361049",
+    "SCHUL_NM": "인천신현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321039",
+    "SCHUL_NM": "인천신흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361050",
+    "SCHUL_NM": "인천심곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331043",
+    "SCHUL_NM": "인천십정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310598",
+    "SCHUL_NM": "인천아라고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361321",
+    "SCHUL_NM": "인천아라중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361332",
+    "SCHUL_NM": "인천아라초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361327",
+    "SCHUL_NM": "인천아람초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331220",
+    "SCHUL_NM": "인천안남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331200",
+    "SCHUL_NM": "인천안남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331201",
+    "SCHUL_NM": "인천안산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341046",
+    "SCHUL_NM": "인천약산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361063",
+    "SCHUL_NM": "인천양지초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331221",
+    "SCHUL_NM": "인천양촌중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331202",
+    "SCHUL_NM": "인천양촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310060",
+    "SCHUL_NM": "인천여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310129",
+    "SCHUL_NM": "인천여자고등학교부설방송통신고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310104",
+    "SCHUL_NM": "인천여자상업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341093",
+    "SCHUL_NM": "인천여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341047",
+    "SCHUL_NM": "인천연성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310422",
+    "SCHUL_NM": "인천연송고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341277",
+    "SCHUL_NM": "인천연송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341048",
+    "SCHUL_NM": "인천연수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321040",
+    "SCHUL_NM": "인천연안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310150",
+    "SCHUL_NM": "인천연일학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321041",
+    "SCHUL_NM": "인천연학초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341049",
+    "SCHUL_NM": "인천연화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310259",
+    "SCHUL_NM": "인천영선고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331044",
+    "SCHUL_NM": "인천영선초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310405",
+    "SCHUL_NM": "인천영종고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321042",
+    "SCHUL_NM": "인천영종초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321062",
+    "SCHUL_NM": "인천영종초등학교금산분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310383",
+    "SCHUL_NM": "인천영흥고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310154",
+    "SCHUL_NM": "인천예림학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341285",
+    "SCHUL_NM": "인천예송중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341288",
+    "SCHUL_NM": "인천예송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310061",
+    "SCHUL_NM": "인천예술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310253",
+    "SCHUL_NM": "인천예일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331222",
+    "SCHUL_NM": "인천예일중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341050",
+    "SCHUL_NM": "인천옥련초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310620",
+    "SCHUL_NM": "인천온라인학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361072",
+    "SCHUL_NM": "인천완정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361013",
+    "SCHUL_NM": "인천왕길초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310242",
+    "SCHUL_NM": "인천외국어고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331045",
+    "SCHUL_NM": "인천용마초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321043",
+    "SCHUL_NM": "인천용유초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321044",
+    "SCHUL_NM": "인천용일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321045",
+    "SCHUL_NM": "인천용정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321214",
+    "SCHUL_NM": "인천용학초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321046",
+    "SCHUL_NM": "인천용현남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321064",
+    "SCHUL_NM": "인천용현남초등학교자월분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321047",
+    "SCHUL_NM": "인천용현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321048",
+    "SCHUL_NM": "인천운남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321233",
+    "SCHUL_NM": "인천운서중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321049",
+    "SCHUL_NM": "인천운서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310260",
+    "SCHUL_NM": "인천원당고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361014",
+    "SCHUL_NM": "인천원당초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341219",
+    "SCHUL_NM": "인천원동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310155",
+    "SCHUL_NM": "인천은광학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341051",
+    "SCHUL_NM": "인천은봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341315",
+    "SCHUL_NM": "인천은송중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341304",
+    "SCHUL_NM": "인천은송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361019",
+    "SCHUL_NM": "인천은지초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310628",
+    "SCHUL_NM": "인천이음고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361322",
+    "SCHUL_NM": "인천이음중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361324",
+    "SCHUL_NM": "인천이음초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341052",
+    "SCHUL_NM": "인천인동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341053",
+    "SCHUL_NM": "인천인수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321050",
+    "SCHUL_NM": "인천인주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310151",
+    "SCHUL_NM": "인천인혜학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331046",
+    "SCHUL_NM": "인천일신초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331203",
+    "SCHUL_NM": "인천작동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331204",
+    "SCHUL_NM": "인천작전초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341054",
+    "SCHUL_NM": "인천장도초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341270",
+    "SCHUL_NM": "인천장서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341055",
+    "SCHUL_NM": "인천장수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341293",
+    "SCHUL_NM": "인천장아초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310370",
+    "SCHUL_NM": "인천전자마이스터고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341094",
+    "SCHUL_NM": "인천정각중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341056",
+    "SCHUL_NM": "인천정각초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341057",
+    "SCHUL_NM": "인천조동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321051",
+    "SCHUL_NM": "인천주안남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321065",
+    "SCHUL_NM": "인천주안남초등학교승봉분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321052",
+    "SCHUL_NM": "인천주안북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321053",
+    "SCHUL_NM": "인천주안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341058",
+    "SCHUL_NM": "인천주원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310562",
+    "SCHUL_NM": "인천중산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321223",
+    "SCHUL_NM": "인천중산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321221",
+    "SCHUL_NM": "인천중산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310625",
+    "SCHUL_NM": "인천중앙여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341059",
+    "SCHUL_NM": "인천중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341095",
+    "SCHUL_NM": "인천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310404",
+    "SCHUL_NM": "인천진산과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331047",
+    "SCHUL_NM": "인천진산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361055",
+    "SCHUL_NM": "인천창신초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321054",
+    "SCHUL_NM": "인천창영초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361056",
+    "SCHUL_NM": "인천천마초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341283",
+    "SCHUL_NM": "인천첨단초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310446",
+    "SCHUL_NM": "인천청담고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310375",
+    "SCHUL_NM": "인천청라고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361247",
+    "SCHUL_NM": "인천청라중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361073",
+    "SCHUL_NM": "인천청라초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361292",
+    "SCHUL_NM": "인천청람중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361267",
+    "SCHUL_NM": "인천청람초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341060",
+    "SCHUL_NM": "인천청량초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310474",
+    "SCHUL_NM": "인천청선학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310477",
+    "SCHUL_NM": "인천청인학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361253",
+    "SCHUL_NM": "인천청일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331048",
+    "SCHUL_NM": "인천청천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341061",
+    "SCHUL_NM": "인천청학초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361314",
+    "SCHUL_NM": "인천청호중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361313",
+    "SCHUL_NM": "인천청호초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310062",
+    "SCHUL_NM": "인천체육고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310374",
+    "SCHUL_NM": "인천초은고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361255",
+    "SCHUL_NM": "인천초은중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361246",
+    "SCHUL_NM": "인천초은초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341062",
+    "SCHUL_NM": "인천축현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310447",
+    "SCHUL_NM": "인천포스코고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310371",
+    "SCHUL_NM": "인천하늘고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321230",
+    "SCHUL_NM": "인천하늘중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321196",
+    "SCHUL_NM": "인천하늘초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331049",
+    "SCHUL_NM": "인천하정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321055",
+    "SCHUL_NM": "인천학산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321056",
+    "SCHUL_NM": "인천학익초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331050",
+    "SCHUL_NM": "인천한길초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361330",
+    "SCHUL_NM": "인천한들초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361317",
+    "SCHUL_NM": "인천한별초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341236",
+    "SCHUL_NM": "인천한빛초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341063",
+    "SCHUL_NM": "인천함박초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361315",
+    "SCHUL_NM": "인천해든초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "1192069",
+    "SCHUL_NM": "인천해사고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331205",
+    "SCHUL_NM": "인천해서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310349",
+    "SCHUL_NM": "인천해송고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341096",
+    "SCHUL_NM": "인천해송중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341064",
+    "SCHUL_NM": "인천해송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310109",
+    "SCHUL_NM": "인천해양과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310423",
+    "SCHUL_NM": "인천해원고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361256",
+    "SCHUL_NM": "인천해원중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361254",
+    "SCHUL_NM": "인천해원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341312",
+    "SCHUL_NM": "인천현송중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341306",
+    "SCHUL_NM": "인천현송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310156",
+    "SCHUL_NM": "인천혜광학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310451",
+    "SCHUL_NM": "인천화교소중산중고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331206",
+    "SCHUL_NM": "인천화전초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310252",
+    "SCHUL_NM": "인천효성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331207",
+    "SCHUL_NM": "인천효성남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331208",
+    "SCHUL_NM": "인천효성동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331209",
+    "SCHUL_NM": "인천효성서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331223",
+    "SCHUL_NM": "인천효성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331210",
+    "SCHUL_NM": "인천효성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331051",
+    "SCHUL_NM": "인천후정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310479",
+    "SCHUL_NM": "인평자동차고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310085",
+    "SCHUL_NM": "인하대학교사범대학부속고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321097",
+    "SCHUL_NM": "인하대학교사범대학부속중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310086",
+    "SCHUL_NM": "인항고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310063",
+    "SCHUL_NM": "인화여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321088",
+    "SCHUL_NM": "인화여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331224",
+    "SCHUL_NM": "임학중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310213",
+    "SCHUL_NM": "작전고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310241",
+    "SCHUL_NM": "작전여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331225",
+    "SCHUL_NM": "작전중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310627",
+    "SCHUL_NM": "재능고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321235",
+    "SCHUL_NM": "재능중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310372",
+    "SCHUL_NM": "정석항공과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310064",
+    "SCHUL_NM": "제물포고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310130",
+    "SCHUL_NM": "제물포고등학교부설방송통신고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321089",
+    "SCHUL_NM": "제물포여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7361098",
+    "SCHUL_NM": "제물포중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310246",
+    "SCHUL_NM": "제일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351023",
+    "SCHUL_NM": "조산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331072",
+    "SCHUL_NM": "진산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310450",
+    "SCHUL_NM": "채드윅송도국제학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310377",
+    "SCHUL_NM": "청라달튼외국인학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341097",
+    "SCHUL_NM": "청량중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331073",
+    "SCHUL_NM": "청천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341098",
+    "SCHUL_NM": "청학중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310621",
+    "SCHUL_NM": "칼빈매니토바국제학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351025",
+    "SCHUL_NM": "하점초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310387",
+    "SCHUL_NM": "학력인정남인천고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310394",
+    "SCHUL_NM": "학력인정남인천고등학교(2년제)"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310392",
+    "SCHUL_NM": "학력인정남인천고등학교병설남인천중학교(2년제)"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310476",
+    "SCHUL_NM": "학력인정인천생활예술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310065",
+    "SCHUL_NM": "학익고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310066",
+    "SCHUL_NM": "학익여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310601",
+    "SCHUL_NM": "한국글로벌셰프고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7310454",
+    "SCHUL_NM": "한국주얼리고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7331052",
+    "SCHUL_NM": "한일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7341099",
+    "SCHUL_NM": "함박중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351026",
+    "SCHUL_NM": "합일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351027",
+    "SCHUL_NM": "해명초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7321090",
+    "SCHUL_NM": "화도진중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "E10",
+    "ATPT_OFCDC_SC_NM": "인천광역시교육청",
+    "SD_SCHUL_CODE": "7351028",
+    "SCHUL_NM": "화도초등학교"
+  }
+]

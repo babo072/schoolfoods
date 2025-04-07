@@ -1,0 +1,3062 @@
+[
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "       ",
+    "SCHUL_NM": "(가칭)오송2고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "       ",
+    "SCHUL_NM": "(가칭)혁신중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "       ",
+    "SCHUL_NM": "(가칭)혁신초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011009",
+    "SCHUL_NM": "가경중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011163",
+    "SCHUL_NM": "가경초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111011",
+    "SCHUL_NM": "가곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111022",
+    "SCHUL_NM": "가곡초등학교대곡분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111023",
+    "SCHUL_NM": "가곡초등학교보발분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011322",
+    "SCHUL_NM": "가덕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011289",
+    "SCHUL_NM": "가덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111012",
+    "SCHUL_NM": "가평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021046",
+    "SCHUL_NM": "가흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011324",
+    "SCHUL_NM": "각리중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011290",
+    "SCHUL_NM": "각리초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011291",
+    "SCHUL_NM": "갈원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101006",
+    "SCHUL_NM": "감곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101015",
+    "SCHUL_NM": "감곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092019",
+    "SCHUL_NM": "감물초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011292",
+    "SCHUL_NM": "강내초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011164",
+    "SCHUL_NM": "강서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011165",
+    "SCHUL_NM": "개신초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011010",
+    "SCHUL_NM": "경덕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011211",
+    "SCHUL_NM": "경덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011166",
+    "SCHUL_NM": "경산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051011",
+    "SCHUL_NM": "관기초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000032",
+    "SCHUL_NM": "광혜원고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081004",
+    "SCHUL_NM": "광혜원중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000033",
+    "SCHUL_NM": "괴산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092020",
+    "SCHUL_NM": "괴산명덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092007",
+    "SCHUL_NM": "괴산북중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092069",
+    "SCHUL_NM": "괴산오성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092008",
+    "SCHUL_NM": "괴산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011167",
+    "SCHUL_NM": "교동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071014",
+    "SCHUL_NM": "구룡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081010",
+    "SCHUL_NM": "구정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000308",
+    "SCHUL_NM": "국원고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021028",
+    "SCHUL_NM": "국원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061010",
+    "SCHUL_NM": "군남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061011",
+    "SCHUL_NM": "군서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000279",
+    "SCHUL_NM": "글로벌선진학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021048",
+    "SCHUL_NM": "금가초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081011",
+    "SCHUL_NM": "금구초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031018",
+    "SCHUL_NM": "금성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000038",
+    "SCHUL_NM": "금천고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011011",
+    "SCHUL_NM": "금천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011168",
+    "SCHUL_NM": "금천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000197",
+    "SCHUL_NM": "꽃동네학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031019",
+    "SCHUL_NM": "남당초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011012",
+    "SCHUL_NM": "남성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011169",
+    "SCHUL_NM": "남성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101016",
+    "SCHUL_NM": "남신초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011294",
+    "SCHUL_NM": "남이초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011295",
+    "SCHUL_NM": "남일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031020",
+    "SCHUL_NM": "남천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011213",
+    "SCHUL_NM": "남평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011296",
+    "SCHUL_NM": "낭성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051012",
+    "SCHUL_NM": "내북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011323",
+    "SCHUL_NM": "내수중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011297",
+    "SCHUL_NM": "내수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031005",
+    "SCHUL_NM": "내토중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031021",
+    "SCHUL_NM": "내토초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021007",
+    "SCHUL_NM": "노은중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021050",
+    "SCHUL_NM": "노은초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011343",
+    "SCHUL_NM": "다다예술학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111006",
+    "SCHUL_NM": "단성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000040",
+    "SCHUL_NM": "단양고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111045",
+    "SCHUL_NM": "단양소백산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111007",
+    "SCHUL_NM": "단양중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111013",
+    "SCHUL_NM": "단양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021051",
+    "SCHUL_NM": "단월초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000550",
+    "SCHUL_NM": "단재고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011348",
+    "SCHUL_NM": "단재초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111014",
+    "SCHUL_NM": "단천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021052",
+    "SCHUL_NM": "달천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021082",
+    "SCHUL_NM": "달천초등학교매현분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111015",
+    "SCHUL_NM": "대가초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111016",
+    "SCHUL_NM": "대강초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000431",
+    "SCHUL_NM": "대금고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011298",
+    "SCHUL_NM": "대길초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021053",
+    "SCHUL_NM": "대미초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000135",
+    "SCHUL_NM": "대성여자상업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011152",
+    "SCHUL_NM": "대성여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011153",
+    "SCHUL_NM": "대성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101007",
+    "SCHUL_NM": "대소중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101018",
+    "SCHUL_NM": "대소초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031006",
+    "SCHUL_NM": "대제중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011172",
+    "SCHUL_NM": "덕벌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081005",
+    "SCHUL_NM": "덕산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011173",
+    "SCHUL_NM": "덕성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021055",
+    "SCHUL_NM": "덕신초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092021",
+    "SCHUL_NM": "도안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051013",
+    "SCHUL_NM": "동광초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021057",
+    "SCHUL_NM": "동량초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031022",
+    "SCHUL_NM": "동명초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000530",
+    "SCHUL_NM": "동성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101070",
+    "SCHUL_NM": "동성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101069",
+    "SCHUL_NM": "동성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061013",
+    "SCHUL_NM": "동이초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061022",
+    "SCHUL_NM": "동이초등학교우산분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092022",
+    "SCHUL_NM": "동인초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011171",
+    "SCHUL_NM": "동주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011299",
+    "SCHUL_NM": "동화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031023",
+    "SCHUL_NM": "두학초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011300",
+    "SCHUL_NM": "만수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081012",
+    "SCHUL_NM": "만승초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071015",
+    "SCHUL_NM": "매곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000183",
+    "SCHUL_NM": "매괴고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101012",
+    "SCHUL_NM": "매괴여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111008",
+    "SCHUL_NM": "매포중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111017",
+    "SCHUL_NM": "매포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101020",
+    "SCHUL_NM": "맹동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031024",
+    "SCHUL_NM": "명지초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011174",
+    "SCHUL_NM": "모충초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000532",
+    "SCHUL_NM": "목도나루학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092023",
+    "SCHUL_NM": "목도초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021058",
+    "SCHUL_NM": "목행초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101008",
+    "SCHUL_NM": "무극중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101021",
+    "SCHUL_NM": "무극초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092024",
+    "SCHUL_NM": "문광초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081013",
+    "SCHUL_NM": "문백초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081014",
+    "SCHUL_NM": "문상초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011325",
+    "SCHUL_NM": "문의중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011302",
+    "SCHUL_NM": "문의초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011303",
+    "SCHUL_NM": "문의초등학교도원분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011326",
+    "SCHUL_NM": "미원중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011304",
+    "SCHUL_NM": "미원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011305",
+    "SCHUL_NM": "미원초등학교금관분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081015",
+    "SCHUL_NM": "백곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092025",
+    "SCHUL_NM": "백봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031007",
+    "SCHUL_NM": "백운중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031025",
+    "SCHUL_NM": "백운초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092026",
+    "SCHUL_NM": "보광초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051005",
+    "SCHUL_NM": "보덕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000085",
+    "SCHUL_NM": "보은고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051046",
+    "SCHUL_NM": "보은삼산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000046",
+    "SCHUL_NM": "보은여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051006",
+    "SCHUL_NM": "보은여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051007",
+    "SCHUL_NM": "보은중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011013",
+    "SCHUL_NM": "복대중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011175",
+    "SCHUL_NM": "복대초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011161",
+    "SCHUL_NM": "봉덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000212",
+    "SCHUL_NM": "봉명고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011014",
+    "SCHUL_NM": "봉명중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011176",
+    "SCHUL_NM": "봉명초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031008",
+    "SCHUL_NM": "봉양중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031026",
+    "SCHUL_NM": "봉양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011177",
+    "SCHUL_NM": "봉정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071017",
+    "SCHUL_NM": "부용초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101022",
+    "SCHUL_NM": "부윤초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011306",
+    "SCHUL_NM": "북이초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011178",
+    "SCHUL_NM": "북일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011179",
+    "SCHUL_NM": "분평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011301",
+    "SCHUL_NM": "비봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011307",
+    "SCHUL_NM": "비상초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011180",
+    "SCHUL_NM": "사직초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011181",
+    "SCHUL_NM": "사천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000213",
+    "SCHUL_NM": "산남고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011015",
+    "SCHUL_NM": "산남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011182",
+    "SCHUL_NM": "산남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011158",
+    "SCHUL_NM": "산성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051014",
+    "SCHUL_NM": "산외초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021008",
+    "SCHUL_NM": "산척중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021059",
+    "SCHUL_NM": "산척초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092027",
+    "SCHUL_NM": "삼보초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101009",
+    "SCHUL_NM": "삼성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101023",
+    "SCHUL_NM": "삼성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061014",
+    "SCHUL_NM": "삼양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000047",
+    "SCHUL_NM": "상당고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011183",
+    "SCHUL_NM": "상당초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011308",
+    "SCHUL_NM": "상봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111019",
+    "SCHUL_NM": "상진초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071018",
+    "SCHUL_NM": "상촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071052",
+    "SCHUL_NM": "새너울중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011184",
+    "SCHUL_NM": "새터초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011185",
+    "SCHUL_NM": "샛별초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101013",
+    "SCHUL_NM": "생극중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101024",
+    "SCHUL_NM": "생극초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011373",
+    "SCHUL_NM": "생명중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011372",
+    "SCHUL_NM": "생명초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011016",
+    "SCHUL_NM": "서경중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011159",
+    "SCHUL_NM": "서경초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000199",
+    "SCHUL_NM": "서원고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011017",
+    "SCHUL_NM": "서원중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011186",
+    "SCHUL_NM": "서원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000376",
+    "SCHUL_NM": "서전고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081049",
+    "SCHUL_NM": "서전중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011187",
+    "SCHUL_NM": "서촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011130",
+    "SCHUL_NM": "서현중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011125",
+    "SCHUL_NM": "서현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011188",
+    "SCHUL_NM": "석교초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011309",
+    "SCHUL_NM": "석성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081017",
+    "SCHUL_NM": "성암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011116",
+    "SCHUL_NM": "성화중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011189",
+    "SCHUL_NM": "성화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000086",
+    "SCHUL_NM": "세광고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011154",
+    "SCHUL_NM": "세광중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000087",
+    "SCHUL_NM": "세명고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021060",
+    "SCHUL_NM": "세성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051016",
+    "SCHUL_NM": "세중초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092028",
+    "SCHUL_NM": "소수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101025",
+    "SCHUL_NM": "소이초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021061",
+    "SCHUL_NM": "소태초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051045",
+    "SCHUL_NM": "속리산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051017",
+    "SCHUL_NM": "속리초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011390",
+    "SCHUL_NM": "솔강중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011145",
+    "SCHUL_NM": "솔밭중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011143",
+    "SCHUL_NM": "솔밭초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092010",
+    "SCHUL_NM": "송면중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092029",
+    "SCHUL_NM": "송면초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011028",
+    "SCHUL_NM": "송절중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031009",
+    "SCHUL_NM": "송학중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031027",
+    "SCHUL_NM": "송학초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011039",
+    "SCHUL_NM": "수곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011190",
+    "SCHUL_NM": "수곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101026",
+    "SCHUL_NM": "수봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031010",
+    "SCHUL_NM": "수산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031028",
+    "SCHUL_NM": "수산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011310",
+    "SCHUL_NM": "수성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011311",
+    "SCHUL_NM": "수성초등학교구성분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021009",
+    "SCHUL_NM": "수안보중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021062",
+    "SCHUL_NM": "수안보초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051019",
+    "SCHUL_NM": "수정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051020",
+    "SCHUL_NM": "수한초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021063",
+    "SCHUL_NM": "수회초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000155",
+    "SCHUL_NM": "숭덕학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021010",
+    "SCHUL_NM": "신니중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021011",
+    "SCHUL_NM": "신명중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031029",
+    "SCHUL_NM": "신백초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011312",
+    "SCHUL_NM": "신송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071010",
+    "SCHUL_NM": "심천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071019",
+    "SCHUL_NM": "심천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101027",
+    "SCHUL_NM": "쌍봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061015",
+    "SCHUL_NM": "안남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061005",
+    "SCHUL_NM": "안내중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061016",
+    "SCHUL_NM": "안내초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021021",
+    "SCHUL_NM": "앙성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021064",
+    "SCHUL_NM": "앙성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071020",
+    "SCHUL_NM": "양강초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071021",
+    "SCHUL_NM": "양산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000090",
+    "SCHUL_NM": "양업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000268",
+    "SCHUL_NM": "양청고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011331",
+    "SCHUL_NM": "양청중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011349",
+    "SCHUL_NM": "양청초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111020",
+    "SCHUL_NM": "어상천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021066",
+    "SCHUL_NM": "엄정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021067",
+    "SCHUL_NM": "연수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092011",
+    "SCHUL_NM": "연풍중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092030",
+    "SCHUL_NM": "연풍초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000048",
+    "SCHUL_NM": "영동고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000508",
+    "SCHUL_NM": "영동미래고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000211",
+    "SCHUL_NM": "영동산업과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071006",
+    "SCHUL_NM": "영동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071022",
+    "SCHUL_NM": "영동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071011",
+    "SCHUL_NM": "영신중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111010",
+    "SCHUL_NM": "영춘중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111021",
+    "SCHUL_NM": "영춘초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8111051",
+    "SCHUL_NM": "영춘초등학교별방분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101028",
+    "SCHUL_NM": "오갑초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021068",
+    "SCHUL_NM": "오석초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101029",
+    "SCHUL_NM": "오선초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000283",
+    "SCHUL_NM": "오송고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011389",
+    "SCHUL_NM": "오송솔미초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011330",
+    "SCHUL_NM": "오송중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011337",
+    "SCHUL_NM": "오송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000050",
+    "SCHUL_NM": "오창고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011327",
+    "SCHUL_NM": "오창중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011313",
+    "SCHUL_NM": "오창초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081018",
+    "SCHUL_NM": "옥동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011328",
+    "SCHUL_NM": "옥산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011316",
+    "SCHUL_NM": "옥산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000051",
+    "SCHUL_NM": "옥천고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061006",
+    "SCHUL_NM": "옥천여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061007",
+    "SCHUL_NM": "옥천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011318",
+    "SCHUL_NM": "옥포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031030",
+    "SCHUL_NM": "왕미초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011191",
+    "SCHUL_NM": "용담초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011218",
+    "SCHUL_NM": "용담초등학교현양원분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031031",
+    "SCHUL_NM": "용두초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011131",
+    "SCHUL_NM": "용성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011192",
+    "SCHUL_NM": "용성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011391",
+    "SCHUL_NM": "용아중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011371",
+    "SCHUL_NM": "용아초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011050",
+    "SCHUL_NM": "용암중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011193",
+    "SCHUL_NM": "용암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021069",
+    "SCHUL_NM": "용원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021148",
+    "SCHUL_NM": "용원초등학교동락분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101030",
+    "SCHUL_NM": "용천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071023",
+    "SCHUL_NM": "용화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011194",
+    "SCHUL_NM": "우암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011059",
+    "SCHUL_NM": "운동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011195",
+    "SCHUL_NM": "운동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011196",
+    "SCHUL_NM": "운천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000091",
+    "SCHUL_NM": "운호고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011155",
+    "SCHUL_NM": "운호중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101031",
+    "SCHUL_NM": "원남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101032",
+    "SCHUL_NM": "원당초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011070",
+    "SCHUL_NM": "원봉중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011197",
+    "SCHUL_NM": "원봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011081",
+    "SCHUL_NM": "원평중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011198",
+    "SCHUL_NM": "원평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011092",
+    "SCHUL_NM": "율량중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011199",
+    "SCHUL_NM": "율량초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000520",
+    "SCHUL_NM": "은여울고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081050",
+    "SCHUL_NM": "은여울중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000053",
+    "SCHUL_NM": "음성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101010",
+    "SCHUL_NM": "음성여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101011",
+    "SCHUL_NM": "음성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031011",
+    "SCHUL_NM": "의림여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031032",
+    "SCHUL_NM": "의림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071024",
+    "SCHUL_NM": "이수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061008",
+    "SCHUL_NM": "이원중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061017",
+    "SCHUL_NM": "이원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081007",
+    "SCHUL_NM": "이월중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081019",
+    "SCHUL_NM": "이월초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000533",
+    "SCHUL_NM": "이은학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000093",
+    "SCHUL_NM": "일신여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011156",
+    "SCHUL_NM": "일신여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031034",
+    "SCHUL_NM": "장락초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061046",
+    "SCHUL_NM": "장야초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092031",
+    "SCHUL_NM": "장연초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071012",
+    "SCHUL_NM": "정수중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000057",
+    "SCHUL_NM": "제천고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031012",
+    "SCHUL_NM": "제천덕산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031035",
+    "SCHUL_NM": "제천덕산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031013",
+    "SCHUL_NM": "제천동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000207",
+    "SCHUL_NM": "제천디지털전자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000210",
+    "SCHUL_NM": "제천산업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000121",
+    "SCHUL_NM": "제천상업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000058",
+    "SCHUL_NM": "제천여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031014",
+    "SCHUL_NM": "제천여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000216",
+    "SCHUL_NM": "제천제일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031036",
+    "SCHUL_NM": "제천중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031015",
+    "SCHUL_NM": "제천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051021",
+    "SCHUL_NM": "종곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021031",
+    "SCHUL_NM": "주덕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021070",
+    "SCHUL_NM": "주덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000201",
+    "SCHUL_NM": "주성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011103",
+    "SCHUL_NM": "주성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011347",
+    "SCHUL_NM": "주성중학교부설방송통신중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011200",
+    "SCHUL_NM": "주성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011160",
+    "SCHUL_NM": "주중초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092032",
+    "SCHUL_NM": "죽리초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011201",
+    "SCHUL_NM": "죽림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061018",
+    "SCHUL_NM": "죽향초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011162",
+    "SCHUL_NM": "중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000531",
+    "SCHUL_NM": "중앙탑고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021137",
+    "SCHUL_NM": "중앙탑중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021035",
+    "SCHUL_NM": "중원중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011202",
+    "SCHUL_NM": "증안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061019",
+    "SCHUL_NM": "증약초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061024",
+    "SCHUL_NM": "증약초등학교대정분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000117",
+    "SCHUL_NM": "증평공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092013",
+    "SCHUL_NM": "증평여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092014",
+    "SCHUL_NM": "증평중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092033",
+    "SCHUL_NM": "증평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011128",
+    "SCHUL_NM": "직지초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000062",
+    "SCHUL_NM": "진천고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081020",
+    "SCHUL_NM": "진천삼수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081021",
+    "SCHUL_NM": "진천상산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081053",
+    "SCHUL_NM": "진천상신초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000122",
+    "SCHUL_NM": "진천상업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081008",
+    "SCHUL_NM": "진천여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081009",
+    "SCHUL_NM": "진천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011212",
+    "SCHUL_NM": "진흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011335",
+    "SCHUL_NM": "창리초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011203",
+    "SCHUL_NM": "창신초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011204",
+    "SCHUL_NM": "청남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101033",
+    "SCHUL_NM": "청룡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000064",
+    "SCHUL_NM": "청산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061009",
+    "SCHUL_NM": "청산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061020",
+    "SCHUL_NM": "청산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000096",
+    "SCHUL_NM": "청석고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8061021",
+    "SCHUL_NM": "청성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092017",
+    "SCHUL_NM": "청안중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092034",
+    "SCHUL_NM": "청안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000385",
+    "SCHUL_NM": "청암학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011113",
+    "SCHUL_NM": "청운중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000214",
+    "SCHUL_NM": "청원고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011321",
+    "SCHUL_NM": "청원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000507",
+    "SCHUL_NM": "청주IT과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000066",
+    "SCHUL_NM": "청주고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000145",
+    "SCHUL_NM": "청주고등학교부설방송통신고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000280",
+    "SCHUL_NM": "청주공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "7003915",
+    "SCHUL_NM": "청주교육대학교부설초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011123",
+    "SCHUL_NM": "청주남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011350",
+    "SCHUL_NM": "청주내곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011205",
+    "SCHUL_NM": "청주내덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000125",
+    "SCHUL_NM": "청주농업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000240",
+    "SCHUL_NM": "청주농업고등학교공동실습소"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000195",
+    "SCHUL_NM": "청주대성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011235",
+    "SCHUL_NM": "청주대성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011134",
+    "SCHUL_NM": "청주동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000157",
+    "SCHUL_NM": "청주맹학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000158",
+    "SCHUL_NM": "청주성신학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011351",
+    "SCHUL_NM": "청주소로초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000203",
+    "SCHUL_NM": "청주신흥고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000069",
+    "SCHUL_NM": "청주여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000140",
+    "SCHUL_NM": "청주여자상업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011144",
+    "SCHUL_NM": "청주여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000070",
+    "SCHUL_NM": "청주외국어고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000072",
+    "SCHUL_NM": "청주중앙여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011149",
+    "SCHUL_NM": "청주중앙여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011150",
+    "SCHUL_NM": "청주중앙중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011151",
+    "SCHUL_NM": "청주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000430",
+    "SCHUL_NM": "청주하이텍고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000159",
+    "SCHUL_NM": "청주혜원학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000160",
+    "SCHUL_NM": "청주혜화학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092015",
+    "SCHUL_NM": "청천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092035",
+    "SCHUL_NM": "청천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031016",
+    "SCHUL_NM": "청풍중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031037",
+    "SCHUL_NM": "청풍초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071025",
+    "SCHUL_NM": "초강초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081022",
+    "SCHUL_NM": "초평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071013",
+    "SCHUL_NM": "추풍령중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071026",
+    "SCHUL_NM": "추풍령초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000074",
+    "SCHUL_NM": "충북고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000127",
+    "SCHUL_NM": "충북공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000238",
+    "SCHUL_NM": "충북공업고등학교공동실습소"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000075",
+    "SCHUL_NM": "충북과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "7003892",
+    "SCHUL_NM": "충북대학교사범대학부설고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "7003891",
+    "SCHUL_NM": "충북대학교사범대학부설중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000237",
+    "SCHUL_NM": "충북반도체고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000527",
+    "SCHUL_NM": "충북비즈니스고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000384",
+    "SCHUL_NM": "충북산업과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000335",
+    "SCHUL_NM": "충북상업정보고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000383",
+    "SCHUL_NM": "충북생명산업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000310",
+    "SCHUL_NM": "충북에너지고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000099",
+    "SCHUL_NM": "충북여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011157",
+    "SCHUL_NM": "충북여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000076",
+    "SCHUL_NM": "충북예술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000549",
+    "SCHUL_NM": "충북온라인학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000077",
+    "SCHUL_NM": "충북체육고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081061",
+    "SCHUL_NM": "충북체육중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000100",
+    "SCHUL_NM": "충원고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021036",
+    "SCHUL_NM": "충일중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000078",
+    "SCHUL_NM": "충주고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000147",
+    "SCHUL_NM": "충주고등학교부설방송통신고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000129",
+    "SCHUL_NM": "충주공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021071",
+    "SCHUL_NM": "충주교현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021006",
+    "SCHUL_NM": "충주금릉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021072",
+    "SCHUL_NM": "충주남산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021142",
+    "SCHUL_NM": "충주남한강초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021073",
+    "SCHUL_NM": "충주대림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021145",
+    "SCHUL_NM": "충주대소원중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021144",
+    "SCHUL_NM": "충주대소원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000202",
+    "SCHUL_NM": "충주대원고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021037",
+    "SCHUL_NM": "충주미덕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021038",
+    "SCHUL_NM": "충주북여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021074",
+    "SCHUL_NM": "충주삼원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000141",
+    "SCHUL_NM": "충주상업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021075",
+    "SCHUL_NM": "충주성남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000161",
+    "SCHUL_NM": "충주성모학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000164",
+    "SCHUL_NM": "충주성심학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000080",
+    "SCHUL_NM": "충주여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021039",
+    "SCHUL_NM": "충주여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000081",
+    "SCHUL_NM": "충주예성여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021040",
+    "SCHUL_NM": "충주예성여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021076",
+    "SCHUL_NM": "충주예성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021077",
+    "SCHUL_NM": "충주용산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000281",
+    "SCHUL_NM": "충주중산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021041",
+    "SCHUL_NM": "충주중앙중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021078",
+    "SCHUL_NM": "충주중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021134",
+    "SCHUL_NM": "충주중앙탑초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021042",
+    "SCHUL_NM": "충주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000378",
+    "SCHUL_NM": "충주혜성학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021043",
+    "SCHUL_NM": "칠금중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021079",
+    "SCHUL_NM": "칠금초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092016",
+    "SCHUL_NM": "칠성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092037",
+    "SCHUL_NM": "칠성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021044",
+    "SCHUL_NM": "탄금중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8021080",
+    "SCHUL_NM": "탄금초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051022",
+    "SCHUL_NM": "탄부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051023",
+    "SCHUL_NM": "판동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051056",
+    "SCHUL_NM": "판동초등학교송죽분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101034",
+    "SCHUL_NM": "평곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011206",
+    "SCHUL_NM": "풍광초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101035",
+    "SCHUL_NM": "하당초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000215",
+    "SCHUL_NM": "학력인정 예일미용고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000309",
+    "SCHUL_NM": "학산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071008",
+    "SCHUL_NM": "학산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071027",
+    "SCHUL_NM": "학산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081023",
+    "SCHUL_NM": "학성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "7003851",
+    "SCHUL_NM": "한국교원대학교부설고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "7003850",
+    "SCHUL_NM": "한국교원대학교부설미호중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "7003849",
+    "SCHUL_NM": "한국교원대학교부설월곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000287",
+    "SCHUL_NM": "한국바이오마이스터고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000375",
+    "SCHUL_NM": "한국폴리텍다솜고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000311",
+    "SCHUL_NM": "한국호텔관광고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000269",
+    "SCHUL_NM": "한림디자인고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011207",
+    "SCHUL_NM": "한벌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011208",
+    "SCHUL_NM": "한솔초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031017",
+    "SCHUL_NM": "한송중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031038",
+    "SCHUL_NM": "한송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8101014",
+    "SCHUL_NM": "한일중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8081024",
+    "SCHUL_NM": "한천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011319",
+    "SCHUL_NM": "행정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011329",
+    "SCHUL_NM": "현도중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011320",
+    "SCHUL_NM": "현도초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000102",
+    "SCHUL_NM": "형석고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8092018",
+    "SCHUL_NM": "형석중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031039",
+    "SCHUL_NM": "홍광초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031040",
+    "SCHUL_NM": "화당초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8031041",
+    "SCHUL_NM": "화산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000082",
+    "SCHUL_NM": "황간고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8071028",
+    "SCHUL_NM": "황간초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051024",
+    "SCHUL_NM": "회남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051010",
+    "SCHUL_NM": "회인중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8051025",
+    "SCHUL_NM": "회인초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8000200",
+    "SCHUL_NM": "흥덕고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "M10",
+    "ATPT_OFCDC_SC_NM": "충청북도교육청",
+    "SD_SCHUL_CODE": "8011209",
+    "SCHUL_NM": "흥덕초등학교"
+  }
+]

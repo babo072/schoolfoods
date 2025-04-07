@@ -1,0 +1,28 @@
+{
+  "name": "schoolfoods",
+  "version": "1.0.0",
+  "description": "학교 급식 정보를 제공하는 MCP 서버",
+  "main": "index.js",
+  "type": "commonjs",
+  "bin": {
+    "mcp-server-schoolfoods": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mcp",
+    "school",
+    "food",
+    "meals"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.8.0",
+    "node-fetch": "^2.7.0",
+    "zod": "^3.24.2",
+    "zod-to-json-schema": "^3.24.5"
+  }
+}

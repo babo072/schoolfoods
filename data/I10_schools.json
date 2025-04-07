@@ -1,0 +1,650 @@
+[
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300212",
+    "SCHUL_NM": "가득초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300187",
+    "SCHUL_NM": "가락초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300037",
+    "SCHUL_NM": "감성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300178",
+    "SCHUL_NM": "고운고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300174",
+    "SCHUL_NM": "고운중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300168",
+    "SCHUL_NM": "고운초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300218",
+    "SCHUL_NM": "글벗중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300214",
+    "SCHUL_NM": "글벗초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300036",
+    "SCHUL_NM": "금남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300049",
+    "SCHUL_NM": "금호중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300126",
+    "SCHUL_NM": "나래초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300315",
+    "SCHUL_NM": "나루초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300286",
+    "SCHUL_NM": "나성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300285",
+    "SCHUL_NM": "나성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300172",
+    "SCHUL_NM": "늘봄초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300171",
+    "SCHUL_NM": "다빛초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300235",
+    "SCHUL_NM": "다정고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300227",
+    "SCHUL_NM": "다정중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300226",
+    "SCHUL_NM": "다정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300231",
+    "SCHUL_NM": "대평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300107",
+    "SCHUL_NM": "도담고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300106",
+    "SCHUL_NM": "도담중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300105",
+    "SCHUL_NM": "도담초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300177",
+    "SCHUL_NM": "두루고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300173",
+    "SCHUL_NM": "두루중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300166",
+    "SCHUL_NM": "두루초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300119",
+    "SCHUL_NM": "미르초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300347",
+    "SCHUL_NM": "바른초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300265",
+    "SCHUL_NM": "반곡고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300238",
+    "SCHUL_NM": "반곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300236",
+    "SCHUL_NM": "반곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300191",
+    "SCHUL_NM": "보람고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300217",
+    "SCHUL_NM": "보람중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300190",
+    "SCHUL_NM": "보람초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300052",
+    "SCHUL_NM": "부강중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300043",
+    "SCHUL_NM": "부강초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300356",
+    "SCHUL_NM": "산울중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300355",
+    "SCHUL_NM": "산울초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300216",
+    "SCHUL_NM": "새뜸중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300211",
+    "SCHUL_NM": "새뜸초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300219",
+    "SCHUL_NM": "새롬고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300123",
+    "SCHUL_NM": "새롬중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300210",
+    "SCHUL_NM": "새롬초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300215",
+    "SCHUL_NM": "새움중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300229",
+    "SCHUL_NM": "새움초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300054",
+    "SCHUL_NM": "세종고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300181",
+    "SCHUL_NM": "세종과학예술영재학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300108",
+    "SCHUL_NM": "세종국제고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300188",
+    "SCHUL_NM": "세종누리학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300331",
+    "SCHUL_NM": "세종늘벗학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300278",
+    "SCHUL_NM": "세종대성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300184",
+    "SCHUL_NM": "세종도원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300329",
+    "SCHUL_NM": "세종미래고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300185",
+    "SCHUL_NM": "세종여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300233",
+    "SCHUL_NM": "세종예술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300317",
+    "SCHUL_NM": "세종이음학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300266",
+    "SCHUL_NM": "세종장영실고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300305",
+    "SCHUL_NM": "세종중학교 "
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300357",
+    "SCHUL_NM": "세종캠퍼스고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300220",
+    "SCHUL_NM": "소담고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300195",
+    "SCHUL_NM": "소담중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300194",
+    "SCHUL_NM": "소담초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300039",
+    "SCHUL_NM": "소정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300239",
+    "SCHUL_NM": "솔빛초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300035",
+    "SCHUL_NM": "수왕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300032",
+    "SCHUL_NM": "쌍류초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300117",
+    "SCHUL_NM": "아름고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300116",
+    "SCHUL_NM": "아름중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300115",
+    "SCHUL_NM": "아름초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300179",
+    "SCHUL_NM": "양지고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300175",
+    "SCHUL_NM": "양지중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300128",
+    "SCHUL_NM": "양지초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300201",
+    "SCHUL_NM": "어진중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300213",
+    "SCHUL_NM": "여울초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300034",
+    "SCHUL_NM": "연남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300047",
+    "SCHUL_NM": "연동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300029",
+    "SCHUL_NM": "연동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300033",
+    "SCHUL_NM": "연봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300048",
+    "SCHUL_NM": "연서중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300031",
+    "SCHUL_NM": "연서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300111",
+    "SCHUL_NM": "연세초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300121",
+    "SCHUL_NM": "연양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300169",
+    "SCHUL_NM": "온빛초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300167",
+    "SCHUL_NM": "으뜸초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300042",
+    "SCHUL_NM": "의랑초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300051",
+    "SCHUL_NM": "장기중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300041",
+    "SCHUL_NM": "장기초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300040",
+    "SCHUL_NM": "전동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300050",
+    "SCHUL_NM": "전의중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300038",
+    "SCHUL_NM": "전의초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300027",
+    "SCHUL_NM": "조치원교동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300025",
+    "SCHUL_NM": "조치원대동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300026",
+    "SCHUL_NM": "조치원명동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300028",
+    "SCHUL_NM": "조치원신봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300045",
+    "SCHUL_NM": "조치원중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300180",
+    "SCHUL_NM": "종촌고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300176",
+    "SCHUL_NM": "종촌중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300170",
+    "SCHUL_NM": "종촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300311",
+    "SCHUL_NM": "집현중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300310",
+    "SCHUL_NM": "집현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300044",
+    "SCHUL_NM": "참샘초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300224",
+    "SCHUL_NM": "한결초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300058",
+    "SCHUL_NM": "한솔고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300053",
+    "SCHUL_NM": "한솔중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300087",
+    "SCHUL_NM": "한솔초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300270",
+    "SCHUL_NM": "해밀고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300269",
+    "SCHUL_NM": "해밀중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "I10",
+    "ATPT_OFCDC_SC_NM": "세종특별자치시교육청",
+    "SD_SCHUL_CODE": "9300268",
+    "SCHUL_NM": "해밀초등학교"
+  }
+]

@@ -1,0 +1,5738 @@
+[
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941039",
+    "SCHUL_NM": "가산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750075",
+    "SCHUL_NM": "가은고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841053",
+    "SCHUL_NM": "가은중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841033",
+    "SCHUL_NM": "가은초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871026",
+    "SCHUL_NM": "가음초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931022",
+    "SCHUL_NM": "가천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911024",
+    "SCHUL_NM": "각남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781078",
+    "SCHUL_NM": "감문중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951029",
+    "SCHUL_NM": "감천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781044",
+    "SCHUL_NM": "감천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951018",
+    "SCHUL_NM": "감천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771116",
+    "SCHUL_NM": "감포중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771050",
+    "SCHUL_NM": "감포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750474",
+    "SCHUL_NM": "강구정보고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901036",
+    "SCHUL_NM": "강구중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901021",
+    "SCHUL_NM": "강구초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771068",
+    "SCHUL_NM": "강동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781045",
+    "SCHUL_NM": "개령서부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781079",
+    "SCHUL_NM": "개령중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781046",
+    "SCHUL_NM": "개령초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8921017",
+    "SCHUL_NM": "개진초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821033",
+    "SCHUL_NM": "거여초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771069",
+    "SCHUL_NM": "건천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750143",
+    "SCHUL_NM": "경구고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801159",
+    "SCHUL_NM": "경구중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791090",
+    "SCHUL_NM": "경덕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750813",
+    "SCHUL_NM": "경북골프경영고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750078",
+    "SCHUL_NM": "경북과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750627",
+    "SCHUL_NM": "경북과학기술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750810",
+    "SCHUL_NM": "경북관광비즈니스고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750667",
+    "SCHUL_NM": "경북기계금속고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750758",
+    "SCHUL_NM": "경북기계명장고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750731",
+    "SCHUL_NM": "경북드론고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750805",
+    "SCHUL_NM": "경북바이오마이스터고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750444",
+    "SCHUL_NM": "경북생활과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750730",
+    "SCHUL_NM": "경북세무고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750829",
+    "SCHUL_NM": "경북소프트웨어마이스터고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750358",
+    "SCHUL_NM": "경북영광학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750818",
+    "SCHUL_NM": "경북온라인학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750079",
+    "SCHUL_NM": "경북외국어고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750724",
+    "SCHUL_NM": "경북일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750770",
+    "SCHUL_NM": "경북자연과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750726",
+    "SCHUL_NM": "경북조리과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871063",
+    "SCHUL_NM": "경북중부중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750080",
+    "SCHUL_NM": "경북체육고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851087",
+    "SCHUL_NM": "경북체육중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750644",
+    "SCHUL_NM": "경북하이텍고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750557",
+    "SCHUL_NM": "경북항공고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750776",
+    "SCHUL_NM": "경북휴먼테크고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750081",
+    "SCHUL_NM": "경산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750555",
+    "SCHUL_NM": "경산과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851057",
+    "SCHUL_NM": "경산동부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851058",
+    "SCHUL_NM": "경산서부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851129",
+    "SCHUL_NM": "경산압량초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750144",
+    "SCHUL_NM": "경산여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851096",
+    "SCHUL_NM": "경산여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750646",
+    "SCHUL_NM": "경산자인학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750771",
+    "SCHUL_NM": "경산제일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851143",
+    "SCHUL_NM": "경산제일중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851059",
+    "SCHUL_NM": "경산중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851088",
+    "SCHUL_NM": "경산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851060",
+    "SCHUL_NM": "경산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750145",
+    "SCHUL_NM": "경안고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750588",
+    "SCHUL_NM": "경안여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791091",
+    "SCHUL_NM": "경안여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791092",
+    "SCHUL_NM": "경안중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750146",
+    "SCHUL_NM": "경일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750147",
+    "SCHUL_NM": "경주고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750225",
+    "SCHUL_NM": "경주공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750446",
+    "SCHUL_NM": "경주디자인고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750082",
+    "SCHUL_NM": "경주여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750457",
+    "SCHUL_NM": "경주여자정보고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771117",
+    "SCHUL_NM": "경주여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750772",
+    "SCHUL_NM": "경주예일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750433",
+    "SCHUL_NM": "경주정보고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771129",
+    "SCHUL_NM": "경주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771070",
+    "SCHUL_NM": "경주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750148",
+    "SCHUL_NM": "경주화랑고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750356",
+    "SCHUL_NM": "경희학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851061",
+    "SCHUL_NM": "계당초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750083",
+    "SCHUL_NM": "계림고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771118",
+    "SCHUL_NM": "계림중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771071",
+    "SCHUL_NM": "계림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821034",
+    "SCHUL_NM": "고경초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8921029",
+    "SCHUL_NM": "고령중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8921034",
+    "SCHUL_NM": "고령중학교개진분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8921018",
+    "SCHUL_NM": "고령초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801086",
+    "SCHUL_NM": "고아초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761111",
+    "SCHUL_NM": "곡강초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831044",
+    "SCHUL_NM": "공검초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941040",
+    "SCHUL_NM": "관호초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801136",
+    "SCHUL_NM": "광평중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801087",
+    "SCHUL_NM": "광평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771072",
+    "SCHUL_NM": "괘릉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761182",
+    "SCHUL_NM": "구룡포중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761112",
+    "SCHUL_NM": "구룡포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750084",
+    "SCHUL_NM": "구미고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750613",
+    "SCHUL_NM": "구미고등학교부설방송통신고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801201",
+    "SCHUL_NM": "구미문성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801088",
+    "SCHUL_NM": "구미봉곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801089",
+    "SCHUL_NM": "구미사곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750754",
+    "SCHUL_NM": "구미산동고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801208",
+    "SCHUL_NM": "구미신당초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801137",
+    "SCHUL_NM": "구미신평중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801090",
+    "SCHUL_NM": "구미신평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750085",
+    "SCHUL_NM": "구미여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750611",
+    "SCHUL_NM": "구미여자상업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801138",
+    "SCHUL_NM": "구미여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801091",
+    "SCHUL_NM": "구미오산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801092",
+    "SCHUL_NM": "구미왕산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801207",
+    "SCHUL_NM": "구미원당초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801205",
+    "SCHUL_NM": "구미인덕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801203",
+    "SCHUL_NM": "구미인덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "1421116",
+    "SCHUL_NM": "구미전자공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750234",
+    "SCHUL_NM": "구미정보고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750811",
+    "SCHUL_NM": "구미제일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801139",
+    "SCHUL_NM": "구미중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801093",
+    "SCHUL_NM": "구미초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750362",
+    "SCHUL_NM": "구미혜당학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781048",
+    "SCHUL_NM": "구성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801094",
+    "SCHUL_NM": "구운초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761113",
+    "SCHUL_NM": "구정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881023",
+    "SCHUL_NM": "구천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871027",
+    "SCHUL_NM": "구천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801095",
+    "SCHUL_NM": "구평남부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801096",
+    "SCHUL_NM": "구평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750151",
+    "SCHUL_NM": "근화여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771130",
+    "SCHUL_NM": "근화여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750642",
+    "SCHUL_NM": "글로벌선진학교문경캠퍼스"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750643",
+    "SCHUL_NM": "글로벌선진학교문경캠퍼스(중)"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811060",
+    "SCHUL_NM": "금계중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851062",
+    "SCHUL_NM": "금락초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781049",
+    "SCHUL_NM": "금릉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750088",
+    "SCHUL_NM": "금성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871048",
+    "SCHUL_NM": "금성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871028",
+    "SCHUL_NM": "금성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750447",
+    "SCHUL_NM": "금오고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750237",
+    "SCHUL_NM": "금오공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801140",
+    "SCHUL_NM": "금오중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801097",
+    "SCHUL_NM": "금오초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771073",
+    "SCHUL_NM": "금장초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750090",
+    "SCHUL_NM": "금천고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911039",
+    "SCHUL_NM": "금천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911025",
+    "SCHUL_NM": "금천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821056",
+    "SCHUL_NM": "금호여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821066",
+    "SCHUL_NM": "금호중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821035",
+    "SCHUL_NM": "금호초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761183",
+    "SCHUL_NM": "기계중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761214",
+    "SCHUL_NM": "기계중학교기북분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761114",
+    "SCHUL_NM": "기계초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761115",
+    "SCHUL_NM": "기북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971045",
+    "SCHUL_NM": "기성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971026",
+    "SCHUL_NM": "기성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791081",
+    "SCHUL_NM": "길안중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791047",
+    "SCHUL_NM": "길안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791077",
+    "SCHUL_NM": "길안초등학교길송분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750154",
+    "SCHUL_NM": "길원여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791082",
+    "SCHUL_NM": "길주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791048",
+    "SCHUL_NM": "길주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750155",
+    "SCHUL_NM": "김천고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781050",
+    "SCHUL_NM": "김천다수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781051",
+    "SCHUL_NM": "김천동부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781052",
+    "SCHUL_NM": "김천동신초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781053",
+    "SCHUL_NM": "김천모암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781054",
+    "SCHUL_NM": "김천부곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750626",
+    "SCHUL_NM": "김천생명과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781055",
+    "SCHUL_NM": "김천서부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781096",
+    "SCHUL_NM": "김천석천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781056",
+    "SCHUL_NM": "김천신일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750092",
+    "SCHUL_NM": "김천여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781080",
+    "SCHUL_NM": "김천여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750156",
+    "SCHUL_NM": "김천예술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750093",
+    "SCHUL_NM": "김천중앙고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750614",
+    "SCHUL_NM": "김천중앙고등학교부설방송통신고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781081",
+    "SCHUL_NM": "김천중앙중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781057",
+    "SCHUL_NM": "김천중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781087",
+    "SCHUL_NM": "김천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781058",
+    "SCHUL_NM": "김천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821075",
+    "SCHUL_NM": "나무와중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771074",
+    "SCHUL_NM": "나산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771075",
+    "SCHUL_NM": "나원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831046",
+    "SCHUL_NM": "낙동동부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831082",
+    "SCHUL_NM": "낙동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831047",
+    "SCHUL_NM": "낙동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941041",
+    "SCHUL_NM": "낙산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831048",
+    "SCHUL_NM": "낙서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831083",
+    "SCHUL_NM": "낙운중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801098",
+    "SCHUL_NM": "남계초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831094",
+    "SCHUL_NM": "남산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851063",
+    "SCHUL_NM": "남산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811035",
+    "SCHUL_NM": "남산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791049",
+    "SCHUL_NM": "남선초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851064",
+    "SCHUL_NM": "남성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761116",
+    "SCHUL_NM": "남성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911026",
+    "SCHUL_NM": "남성현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8981012",
+    "SCHUL_NM": "남양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901037",
+    "SCHUL_NM": "남정중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901022",
+    "SCHUL_NM": "남정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851065",
+    "SCHUL_NM": "남천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791050",
+    "SCHUL_NM": "남후초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771076",
+    "SCHUL_NM": "내남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831084",
+    "SCHUL_NM": "내서중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961025",
+    "SCHUL_NM": "내성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971027",
+    "SCHUL_NM": "노음초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791051",
+    "SCHUL_NM": "녹전초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791078",
+    "SCHUL_NM": "녹전초등학교원천분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781059",
+    "SCHUL_NM": "농소초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841034",
+    "SCHUL_NM": "농암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841051",
+    "SCHUL_NM": "농암초등학교청화분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851066",
+    "SCHUL_NM": "다문초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941042",
+    "SCHUL_NM": "다부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8921033",
+    "SCHUL_NM": "다산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8921019",
+    "SCHUL_NM": "다산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871049",
+    "SCHUL_NM": "다인중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871029",
+    "SCHUL_NM": "다인초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871030",
+    "SCHUL_NM": "단밀초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811054",
+    "SCHUL_NM": "단산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871032",
+    "SCHUL_NM": "단촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821036",
+    "SCHUL_NM": "단포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761117",
+    "SCHUL_NM": "달전초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841035",
+    "SCHUL_NM": "당포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750159",
+    "SCHUL_NM": "대가야고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931023",
+    "SCHUL_NM": "대가초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750733",
+    "SCHUL_NM": "대경문화예술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941043",
+    "SCHUL_NM": "대교초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750594",
+    "SCHUL_NM": "대구가톨릭대학교사범대학부속무학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851097",
+    "SCHUL_NM": "대구가톨릭대학교사범대학부속무학중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791046",
+    "SCHUL_NM": "대구교육대학교안동부설초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781061",
+    "SCHUL_NM": "대덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761184",
+    "SCHUL_NM": "대도중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761118",
+    "SCHUL_NM": "대도초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750160",
+    "SCHUL_NM": "대동고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761202",
+    "SCHUL_NM": "대동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851067",
+    "SCHUL_NM": "대동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931024",
+    "SCHUL_NM": "대동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781062",
+    "SCHUL_NM": "대룡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761185",
+    "SCHUL_NM": "대보중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761119",
+    "SCHUL_NM": "대보초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761186",
+    "SCHUL_NM": "대송중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761120",
+    "SCHUL_NM": "대송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750161",
+    "SCHUL_NM": "대영고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811061",
+    "SCHUL_NM": "대영중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761121",
+    "SCHUL_NM": "대이초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761122",
+    "SCHUL_NM": "대잠초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750162",
+    "SCHUL_NM": "대창고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951036",
+    "SCHUL_NM": "대창중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821037",
+    "SCHUL_NM": "대창초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761123",
+    "SCHUL_NM": "대해초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761187",
+    "SCHUL_NM": "대흥중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8921020",
+    "SCHUL_NM": "덕곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911027",
+    "SCHUL_NM": "덕산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801099",
+    "SCHUL_NM": "덕촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750163",
+    "SCHUL_NM": "도개고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801160",
+    "SCHUL_NM": "도개중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801100",
+    "SCHUL_NM": "도개초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801101",
+    "SCHUL_NM": "도량초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871033",
+    "SCHUL_NM": "도리원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801102",
+    "SCHUL_NM": "도봉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801103",
+    "SCHUL_NM": "도산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801141",
+    "SCHUL_NM": "도송중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931025",
+    "SCHUL_NM": "도원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961026",
+    "SCHUL_NM": "도촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881015",
+    "SCHUL_NM": "도평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750812",
+    "SCHUL_NM": "동국대학교사범대학부속선화여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841054",
+    "SCHUL_NM": "동로중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841036",
+    "SCHUL_NM": "동로초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750095",
+    "SCHUL_NM": "동명고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941044",
+    "SCHUL_NM": "동명동부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941061",
+    "SCHUL_NM": "동명중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941045",
+    "SCHUL_NM": "동명초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771077",
+    "SCHUL_NM": "동방초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811062",
+    "SCHUL_NM": "동산여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911029",
+    "SCHUL_NM": "동산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841037",
+    "SCHUL_NM": "동성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961027",
+    "SCHUL_NM": "동양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750165",
+    "SCHUL_NM": "동지고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750568",
+    "SCHUL_NM": "동지여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761203",
+    "SCHUL_NM": "동지여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761204",
+    "SCHUL_NM": "동지중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771078",
+    "SCHUL_NM": "동천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761124",
+    "SCHUL_NM": "동해초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750518",
+    "SCHUL_NM": "두호고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761125",
+    "SCHUL_NM": "두호남부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761126",
+    "SCHUL_NM": "두호초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750761",
+    "SCHUL_NM": "링컨중고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841055",
+    "SCHUL_NM": "마성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941046",
+    "SCHUL_NM": "매원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911040",
+    "SCHUL_NM": "매전중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971046",
+    "SCHUL_NM": "매화중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971028",
+    "SCHUL_NM": "매화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750762",
+    "SCHUL_NM": "명인고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931044",
+    "SCHUL_NM": "명인중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961028",
+    "SCHUL_NM": "명호초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750166",
+    "SCHUL_NM": "모계고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911042",
+    "SCHUL_NM": "모계중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831049",
+    "SCHUL_NM": "모동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771079",
+    "SCHUL_NM": "모량초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831085",
+    "SCHUL_NM": "모서중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831050",
+    "SCHUL_NM": "모서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771080",
+    "SCHUL_NM": "모아초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841038",
+    "SCHUL_NM": "모전초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771081",
+    "SCHUL_NM": "모화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750167",
+    "SCHUL_NM": "무산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771131",
+    "SCHUL_NM": "무산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801142",
+    "SCHUL_NM": "무을중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801104",
+    "SCHUL_NM": "무을초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750246",
+    "SCHUL_NM": "문경공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841056",
+    "SCHUL_NM": "문경서중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750169",
+    "SCHUL_NM": "문경여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841057",
+    "SCHUL_NM": "문경여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841058",
+    "SCHUL_NM": "문경중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841039",
+    "SCHUL_NM": "문경초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761127",
+    "SCHUL_NM": "문덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750170",
+    "SCHUL_NM": "문명고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851098",
+    "SCHUL_NM": "문명중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781088",
+    "SCHUL_NM": "문성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811036",
+    "SCHUL_NM": "문수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801105",
+    "SCHUL_NM": "문장초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750171",
+    "SCHUL_NM": "문창고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761128",
+    "SCHUL_NM": "문충초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750172",
+    "SCHUL_NM": "문화고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771132",
+    "SCHUL_NM": "문화중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961048",
+    "SCHUL_NM": "물야중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961029",
+    "SCHUL_NM": "물야초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8921021",
+    "SCHUL_NM": "박곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831051",
+    "SCHUL_NM": "백원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961030",
+    "SCHUL_NM": "법전중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931040",
+    "SCHUL_NM": "벽진중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931026",
+    "SCHUL_NM": "벽진초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821077",
+    "SCHUL_NM": "별빛중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901038",
+    "SCHUL_NM": "병곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901023",
+    "SCHUL_NM": "병곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791084",
+    "SCHUL_NM": "복주여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791052",
+    "SCHUL_NM": "복주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781064",
+    "SCHUL_NM": "봉계초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801143",
+    "SCHUL_NM": "봉곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961031",
+    "SCHUL_NM": "봉성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871051",
+    "SCHUL_NM": "봉양중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811038",
+    "SCHUL_NM": "봉현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750097",
+    "SCHUL_NM": "봉화고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961050",
+    "SCHUL_NM": "봉화중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961032",
+    "SCHUL_NM": "봉화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851068",
+    "SCHUL_NM": "봉황초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971047",
+    "SCHUL_NM": "부구중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971029",
+    "SCHUL_NM": "부구초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971041",
+    "SCHUL_NM": "부구초등학교삼당분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881016",
+    "SCHUL_NM": "부남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851069",
+    "SCHUL_NM": "부림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811055",
+    "SCHUL_NM": "부석중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811039",
+    "SCHUL_NM": "부석초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750581",
+    "SCHUL_NM": "북삼고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941062",
+    "SCHUL_NM": "북삼중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941047",
+    "SCHUL_NM": "북삼초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821038",
+    "SCHUL_NM": "북안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791085",
+    "SCHUL_NM": "북후중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791053",
+    "SCHUL_NM": "북후초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771082",
+    "SCHUL_NM": "불국사초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771119",
+    "SCHUL_NM": "불국중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801106",
+    "SCHUL_NM": "비산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871068",
+    "SCHUL_NM": "비안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750487",
+    "SCHUL_NM": "사곡고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750654",
+    "SCHUL_NM": "사동고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851089",
+    "SCHUL_NM": "사동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851070",
+    "SCHUL_NM": "사동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771083",
+    "SCHUL_NM": "사방초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831052",
+    "SCHUL_NM": "사벌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771120",
+    "SCHUL_NM": "산내중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771084",
+    "SCHUL_NM": "산대초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801144",
+    "SCHUL_NM": "산동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821067",
+    "SCHUL_NM": "산동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801107",
+    "SCHUL_NM": "산동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841059",
+    "SCHUL_NM": "산북중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841040",
+    "SCHUL_NM": "산북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841052",
+    "SCHUL_NM": "산북초등학교창구분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841060",
+    "SCHUL_NM": "산양중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841041",
+    "SCHUL_NM": "산양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821074",
+    "SCHUL_NM": "산자연중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971031",
+    "SCHUL_NM": "삼근초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971043",
+    "SCHUL_NM": "삼근초등학교옥방분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750536",
+    "SCHUL_NM": "삼성생활예술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871059",
+    "SCHUL_NM": "삼성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851090",
+    "SCHUL_NM": "삼성현중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851122",
+    "SCHUL_NM": "삼성현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761129",
+    "SCHUL_NM": "상대초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761188",
+    "SCHUL_NM": "상도중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951019",
+    "SCHUL_NM": "상리초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750486",
+    "SCHUL_NM": "상모고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801145",
+    "SCHUL_NM": "상모중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801108",
+    "SCHUL_NM": "상모초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750544",
+    "SCHUL_NM": "상산전자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831053",
+    "SCHUL_NM": "상산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831054",
+    "SCHUL_NM": "상영초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961033",
+    "SCHUL_NM": "상운초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750174",
+    "SCHUL_NM": "상주고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750315",
+    "SCHUL_NM": "상주공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831055",
+    "SCHUL_NM": "상주남부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831056",
+    "SCHUL_NM": "상주동부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750104",
+    "SCHUL_NM": "상주여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831086",
+    "SCHUL_NM": "상주여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831057",
+    "SCHUL_NM": "상주중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831087",
+    "SCHUL_NM": "상주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831058",
+    "SCHUL_NM": "상주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750806",
+    "SCHUL_NM": "상지미래경영고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831095",
+    "SCHUL_NM": "상지여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750357",
+    "SCHUL_NM": "상희학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771121",
+    "SCHUL_NM": "서라벌여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771085",
+    "SCHUL_NM": "서라벌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961034",
+    "SCHUL_NM": "서벽초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791054",
+    "SCHUL_NM": "서선초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761239",
+    "SCHUL_NM": "서포중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791055",
+    "SCHUL_NM": "서후초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771086",
+    "SCHUL_NM": "석계초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8891022",
+    "SCHUL_NM": "석보중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8891014",
+    "SCHUL_NM": "석보초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750637",
+    "SCHUL_NM": "석적고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941078",
+    "SCHUL_NM": "석적중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941048",
+    "SCHUL_NM": "석적초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941063",
+    "SCHUL_NM": "석전중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961052",
+    "SCHUL_NM": "석포중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961035",
+    "SCHUL_NM": "석포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931028",
+    "SCHUL_NM": "선남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750449",
+    "SCHUL_NM": "선덕여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771133",
+    "SCHUL_NM": "선덕여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750105",
+    "SCHUL_NM": "선산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801147",
+    "SCHUL_NM": "선산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801109",
+    "SCHUL_NM": "선산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750519",
+    "SCHUL_NM": "선주고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801148",
+    "SCHUL_NM": "선주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801110",
+    "SCHUL_NM": "선주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821068",
+    "SCHUL_NM": "성남여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831059",
+    "SCHUL_NM": "성동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8921030",
+    "SCHUL_NM": "성산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8921023",
+    "SCHUL_NM": "성산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831096",
+    "SCHUL_NM": "성신여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851071",
+    "SCHUL_NM": "성암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750450",
+    "SCHUL_NM": "성의고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750451",
+    "SCHUL_NM": "성의여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781090",
+    "SCHUL_NM": "성의여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781091",
+    "SCHUL_NM": "성의중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750177",
+    "SCHUL_NM": "성주고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750465",
+    "SCHUL_NM": "성주여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931045",
+    "SCHUL_NM": "성주여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931029",
+    "SCHUL_NM": "성주중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931041",
+    "SCHUL_NM": "성주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931052",
+    "SCHUL_NM": "성주중학교가천분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931030",
+    "SCHUL_NM": "성주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750178",
+    "SCHUL_NM": "성창여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750179",
+    "SCHUL_NM": "성희여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750180",
+    "SCHUL_NM": "세명고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750541",
+    "SCHUL_NM": "세화고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811056",
+    "SCHUL_NM": "소수중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961053",
+    "SCHUL_NM": "소천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961036",
+    "SCHUL_NM": "소천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961044",
+    "SCHUL_NM": "소천초등학교두음분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761189",
+    "SCHUL_NM": "송도중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761190",
+    "SCHUL_NM": "송라중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761130",
+    "SCHUL_NM": "송라초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761131",
+    "SCHUL_NM": "송림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801149",
+    "SCHUL_NM": "송정여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801111",
+    "SCHUL_NM": "송정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791056",
+    "SCHUL_NM": "송천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931046",
+    "SCHUL_NM": "수륜중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931031",
+    "SCHUL_NM": "수륜초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750107",
+    "SCHUL_NM": "수비고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8891023",
+    "SCHUL_NM": "수비중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8891015",
+    "SCHUL_NM": "수비초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750182",
+    "SCHUL_NM": "순심고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750183",
+    "SCHUL_NM": "순심여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941069",
+    "SCHUL_NM": "순심여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941070",
+    "SCHUL_NM": "순심중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811040",
+    "SCHUL_NM": "순흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941049",
+    "SCHUL_NM": "숭산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761191",
+    "SCHUL_NM": "신광중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761132",
+    "SCHUL_NM": "신광초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801112",
+    "SCHUL_NM": "신기초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841042",
+    "SCHUL_NM": "신기초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821057",
+    "SCHUL_NM": "신녕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821039",
+    "SCHUL_NM": "신녕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941064",
+    "SCHUL_NM": "신동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941050",
+    "SCHUL_NM": "신동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750184",
+    "SCHUL_NM": "신라고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750323",
+    "SCHUL_NM": "신라공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771122",
+    "SCHUL_NM": "신라중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771087",
+    "SCHUL_NM": "신라초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851091",
+    "SCHUL_NM": "신상중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791057",
+    "SCHUL_NM": "신성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761192",
+    "SCHUL_NM": "신흥중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761133",
+    "SCHUL_NM": "신흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8921031",
+    "SCHUL_NM": "쌍림중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8921024",
+    "SCHUL_NM": "쌍림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781066",
+    "SCHUL_NM": "아천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781102",
+    "SCHUL_NM": "아천초등학교능치분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781084",
+    "SCHUL_NM": "아포중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781067",
+    "SCHUL_NM": "아포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771123",
+    "SCHUL_NM": "아화중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771088",
+    "SCHUL_NM": "아화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771134",
+    "SCHUL_NM": "안강여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750453",
+    "SCHUL_NM": "안강전자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771090",
+    "SCHUL_NM": "안강제일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771124",
+    "SCHUL_NM": "안강중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771091",
+    "SCHUL_NM": "안강초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750467",
+    "SCHUL_NM": "안계고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871053",
+    "SCHUL_NM": "안계중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871036",
+    "SCHUL_NM": "안계초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881024",
+    "SCHUL_NM": "안덕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881017",
+    "SCHUL_NM": "안덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791058",
+    "SCHUL_NM": "안동강남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750113",
+    "SCHUL_NM": "안동고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750615",
+    "SCHUL_NM": "안동고등학교부설방송통신고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791059",
+    "SCHUL_NM": "안동동부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791060",
+    "SCHUL_NM": "안동서부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791061",
+    "SCHUL_NM": "안동송현초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750114",
+    "SCHUL_NM": "안동여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791086",
+    "SCHUL_NM": "안동여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750360",
+    "SCHUL_NM": "안동영명학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791062",
+    "SCHUL_NM": "안동영호초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791063",
+    "SCHUL_NM": "안동용상초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750186",
+    "SCHUL_NM": "안동중앙고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791087",
+    "SCHUL_NM": "안동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750359",
+    "SCHUL_NM": "안동진명학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791064",
+    "SCHUL_NM": "안동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811041",
+    "SCHUL_NM": "안정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871037",
+    "SCHUL_NM": "안평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871045",
+    "SCHUL_NM": "안평초등학교신평분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851135",
+    "SCHUL_NM": "압량중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801113",
+    "SCHUL_NM": "야은초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941051",
+    "SCHUL_NM": "약동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750115",
+    "SCHUL_NM": "약목고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941065",
+    "SCHUL_NM": "약목중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941052",
+    "SCHUL_NM": "약목초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771125",
+    "SCHUL_NM": "양남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771092",
+    "SCHUL_NM": "양남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761259",
+    "SCHUL_NM": "양덕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771093",
+    "SCHUL_NM": "양동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771126",
+    "SCHUL_NM": "양북중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771094",
+    "SCHUL_NM": "양북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761258",
+    "SCHUL_NM": "양서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801114",
+    "SCHUL_NM": "양포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761134",
+    "SCHUL_NM": "양포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761193",
+    "SCHUL_NM": "양학중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761135",
+    "SCHUL_NM": "양학초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781085",
+    "SCHUL_NM": "어모중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771095",
+    "SCHUL_NM": "연안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761136",
+    "SCHUL_NM": "연일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761137",
+    "SCHUL_NM": "연일형산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791065",
+    "SCHUL_NM": "영가초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750188",
+    "SCHUL_NM": "영광고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750189",
+    "SCHUL_NM": "영광여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811063",
+    "SCHUL_NM": "영광여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811064",
+    "SCHUL_NM": "영광중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750190",
+    "SCHUL_NM": "영남삼육고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851138",
+    "SCHUL_NM": "영남삼육중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791066",
+    "SCHUL_NM": "영남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750546",
+    "SCHUL_NM": "영덕고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901044",
+    "SCHUL_NM": "영덕야성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750191",
+    "SCHUL_NM": "영덕여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901043",
+    "SCHUL_NM": "영덕여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901039",
+    "SCHUL_NM": "영덕중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750192",
+    "SCHUL_NM": "영동고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821069",
+    "SCHUL_NM": "영동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841043",
+    "SCHUL_NM": "영순초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821058",
+    "SCHUL_NM": "영안중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750117",
+    "SCHUL_NM": "영양고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750325",
+    "SCHUL_NM": "영양여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8891026",
+    "SCHUL_NM": "영양여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8891016",
+    "SCHUL_NM": "영양중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8891024",
+    "SCHUL_NM": "영양중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8891017",
+    "SCHUL_NM": "영양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750480",
+    "SCHUL_NM": "영일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761207",
+    "SCHUL_NM": "영일중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811042",
+    "SCHUL_NM": "영일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811067",
+    "SCHUL_NM": "영주가흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811043",
+    "SCHUL_NM": "영주남부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811044",
+    "SCHUL_NM": "영주동부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811045",
+    "SCHUL_NM": "영주서부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750118",
+    "SCHUL_NM": "영주여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811057",
+    "SCHUL_NM": "영주여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750456",
+    "SCHUL_NM": "영주제일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811046",
+    "SCHUL_NM": "영주중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811058",
+    "SCHUL_NM": "영주중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811047",
+    "SCHUL_NM": "영주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771096",
+    "SCHUL_NM": "영지초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750119",
+    "SCHUL_NM": "영천고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821041",
+    "SCHUL_NM": "영천동부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750525",
+    "SCHUL_NM": "영천성남여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750120",
+    "SCHUL_NM": "영천여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821060",
+    "SCHUL_NM": "영천여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750476",
+    "SCHUL_NM": "영천전자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821042",
+    "SCHUL_NM": "영천중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821053",
+    "SCHUL_NM": "영천중앙초등학교화남분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821061",
+    "SCHUL_NM": "영천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821043",
+    "SCHUL_NM": "영천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750121",
+    "SCHUL_NM": "영해고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901040",
+    "SCHUL_NM": "영해중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901026",
+    "SCHUL_NM": "영해초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821045",
+    "SCHUL_NM": "영화초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750768",
+    "SCHUL_NM": "예일메디텍고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951020",
+    "SCHUL_NM": "예천남부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951021",
+    "SCHUL_NM": "예천동부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750122",
+    "SCHUL_NM": "예천여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951030",
+    "SCHUL_NM": "예천여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951031",
+    "SCHUL_NM": "예천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951022",
+    "SCHUL_NM": "예천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750198",
+    "SCHUL_NM": "오상고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801161",
+    "SCHUL_NM": "오상중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750468",
+    "SCHUL_NM": "오천고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761208",
+    "SCHUL_NM": "오천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761138",
+    "SCHUL_NM": "오천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801150",
+    "SCHUL_NM": "오태중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801116",
+    "SCHUL_NM": "오태초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801151",
+    "SCHUL_NM": "옥계동부중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801117",
+    "SCHUL_NM": "옥계동부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801152",
+    "SCHUL_NM": "옥계중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801118",
+    "SCHUL_NM": "옥계초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851073",
+    "SCHUL_NM": "옥곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811048",
+    "SCHUL_NM": "옥대초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871055",
+    "SCHUL_NM": "옥산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771097",
+    "SCHUL_NM": "옥산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831060",
+    "SCHUL_NM": "옥산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801119",
+    "SCHUL_NM": "옥성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871038",
+    "SCHUL_NM": "옥전초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971048",
+    "SCHUL_NM": "온정중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971032",
+    "SCHUL_NM": "온정초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791067",
+    "SCHUL_NM": "온혜초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791068",
+    "SCHUL_NM": "와룡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851074",
+    "SCHUL_NM": "와촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941053",
+    "SCHUL_NM": "왜관동부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941054",
+    "SCHUL_NM": "왜관중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941066",
+    "SCHUL_NM": "왜관중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941055",
+    "SCHUL_NM": "왜관초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831061",
+    "SCHUL_NM": "외남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771127",
+    "SCHUL_NM": "외동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831062",
+    "SCHUL_NM": "외서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771098",
+    "SCHUL_NM": "용강초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951032",
+    "SCHUL_NM": "용궁중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951023",
+    "SCHUL_NM": "용궁초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951033",
+    "SCHUL_NM": "용문중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951024",
+    "SCHUL_NM": "용문초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851092",
+    "SCHUL_NM": "용성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851075",
+    "SCHUL_NM": "용성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931042",
+    "SCHUL_NM": "용암중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931032",
+    "SCHUL_NM": "용암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831097",
+    "SCHUL_NM": "용운중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771099",
+    "SCHUL_NM": "용황초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841044",
+    "SCHUL_NM": "용흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761139",
+    "SCHUL_NM": "용흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8921032",
+    "SCHUL_NM": "우곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8921026",
+    "SCHUL_NM": "우곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750589",
+    "SCHUL_NM": "우석여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781113",
+    "SCHUL_NM": "운곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781116",
+    "SCHUL_NM": "운남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8921027",
+    "SCHUL_NM": "운수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750587",
+    "SCHUL_NM": "울릉고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8981025",
+    "SCHUL_NM": "울릉중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8981013",
+    "SCHUL_NM": "울릉초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750419",
+    "SCHUL_NM": "울진고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971033",
+    "SCHUL_NM": "울진남부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971049",
+    "SCHUL_NM": "울진중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971034",
+    "SCHUL_NM": "울진초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791108",
+    "SCHUL_NM": "웅부중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801120",
+    "SCHUL_NM": "원남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801121",
+    "SCHUL_NM": "원호초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901027",
+    "SCHUL_NM": "원황초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791069",
+    "SCHUL_NM": "월곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791080",
+    "SCHUL_NM": "월곡초등학교삼계분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771135",
+    "SCHUL_NM": "월성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771100",
+    "SCHUL_NM": "월성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761140",
+    "SCHUL_NM": "월포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931033",
+    "SCHUL_NM": "월항초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931049",
+    "SCHUL_NM": "월항초등학교지방분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781070",
+    "SCHUL_NM": "위량초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761195",
+    "SCHUL_NM": "유강중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761141",
+    "SCHUL_NM": "유강초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771101",
+    "SCHUL_NM": "유림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750201",
+    "SCHUL_NM": "유성여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951025",
+    "SCHUL_NM": "유천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911032",
+    "SCHUL_NM": "유천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750656",
+    "SCHUL_NM": "율곡고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781100",
+    "SCHUL_NM": "율곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781098",
+    "SCHUL_NM": "율곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831088",
+    "SCHUL_NM": "은척중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831063",
+    "SCHUL_NM": "은척초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831076",
+    "SCHUL_NM": "은척초등학교무릉분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951037",
+    "SCHUL_NM": "은풍중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951026",
+    "SCHUL_NM": "은풍초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771102",
+    "SCHUL_NM": "의곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750202",
+    "SCHUL_NM": "의성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871039",
+    "SCHUL_NM": "의성남부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871040",
+    "SCHUL_NM": "의성북부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750124",
+    "SCHUL_NM": "의성여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871056",
+    "SCHUL_NM": "의성여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750766",
+    "SCHUL_NM": "의성유니텍고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871057",
+    "SCHUL_NM": "의성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871041",
+    "SCHUL_NM": "의성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761142",
+    "SCHUL_NM": "이동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811049",
+    "SCHUL_NM": "이산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750203",
+    "SCHUL_NM": "이서고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911043",
+    "SCHUL_NM": "이서중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911033",
+    "SCHUL_NM": "이서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831064",
+    "SCHUL_NM": "이안초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881018",
+    "SCHUL_NM": "이전초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761143",
+    "SCHUL_NM": "인덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750473",
+    "SCHUL_NM": "인동고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801153",
+    "SCHUL_NM": "인동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801122",
+    "SCHUL_NM": "인동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801123",
+    "SCHUL_NM": "인의초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941067",
+    "SCHUL_NM": "인평중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941056",
+    "SCHUL_NM": "인평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8891018",
+    "SCHUL_NM": "일월초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8891020",
+    "SCHUL_NM": "일월초등학교청기분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791093",
+    "SCHUL_NM": "일직중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791070",
+    "SCHUL_NM": "일직초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821046",
+    "SCHUL_NM": "임고초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851076",
+    "SCHUL_NM": "임당초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791071",
+    "SCHUL_NM": "임동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791072",
+    "SCHUL_NM": "임하초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771103",
+    "SCHUL_NM": "입실초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8891019",
+    "SCHUL_NM": "입암초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851093",
+    "SCHUL_NM": "자인중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851077",
+    "SCHUL_NM": "자인초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821047",
+    "SCHUL_NM": "자천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821054",
+    "SCHUL_NM": "자천초등학교보현분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941068",
+    "SCHUL_NM": "장곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941057",
+    "SCHUL_NM": "장곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761209",
+    "SCHUL_NM": "장기중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761144",
+    "SCHUL_NM": "장기초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761178",
+    "SCHUL_NM": "장기초등학교모포분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761145",
+    "SCHUL_NM": "장량초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851094",
+    "SCHUL_NM": "장산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851078",
+    "SCHUL_NM": "장산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761146",
+    "SCHUL_NM": "장성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811050",
+    "SCHUL_NM": "장수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801125",
+    "SCHUL_NM": "장천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761217",
+    "SCHUL_NM": "장흥중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961037",
+    "SCHUL_NM": "재산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8981014",
+    "SCHUL_NM": "저동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871043",
+    "SCHUL_NM": "점곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750127",
+    "SCHUL_NM": "점촌고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841045",
+    "SCHUL_NM": "점촌북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841046",
+    "SCHUL_NM": "점촌중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841061",
+    "SCHUL_NM": "점촌중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841047",
+    "SCHUL_NM": "점촌초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801126",
+    "SCHUL_NM": "정수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851079",
+    "SCHUL_NM": "정평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781071",
+    "SCHUL_NM": "조마초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761147",
+    "SCHUL_NM": "죽도초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750559",
+    "SCHUL_NM": "죽변고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971050",
+    "SCHUL_NM": "죽변중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971036",
+    "SCHUL_NM": "죽변초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761148",
+    "SCHUL_NM": "죽장초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761179",
+    "SCHUL_NM": "죽장초등학교상옥분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761149",
+    "SCHUL_NM": "죽천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831065",
+    "SCHUL_NM": "중동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831089",
+    "SCHUL_NM": "중모중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831066",
+    "SCHUL_NM": "중모초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781072",
+    "SCHUL_NM": "증산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821048",
+    "SCHUL_NM": "지곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781074",
+    "SCHUL_NM": "지례초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781103",
+    "SCHUL_NM": "지례초등학교부항분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951034",
+    "SCHUL_NM": "지보중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951027",
+    "SCHUL_NM": "지보초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801127",
+    "SCHUL_NM": "지산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941058",
+    "SCHUL_NM": "지천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901041",
+    "SCHUL_NM": "지품중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781106",
+    "SCHUL_NM": "지품천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901028",
+    "SCHUL_NM": "지품초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781075",
+    "SCHUL_NM": "직지초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750205",
+    "SCHUL_NM": "진량고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851099",
+    "SCHUL_NM": "진량중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851080",
+    "SCHUL_NM": "진량초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750535",
+    "SCHUL_NM": "진보고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881027",
+    "SCHUL_NM": "진보중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881019",
+    "SCHUL_NM": "진보초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881029",
+    "SCHUL_NM": "진성중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851081",
+    "SCHUL_NM": "진성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801154",
+    "SCHUL_NM": "진평중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801128",
+    "SCHUL_NM": "진평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901029",
+    "SCHUL_NM": "창수초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901034",
+    "SCHUL_NM": "창수초등학교인천분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761197",
+    "SCHUL_NM": "창포중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761150",
+    "SCHUL_NM": "창포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8981015",
+    "SCHUL_NM": "천부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771104",
+    "SCHUL_NM": "천북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801155",
+    "SCHUL_NM": "천생중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801129",
+    "SCHUL_NM": "천생초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771105",
+    "SCHUL_NM": "천포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750558",
+    "SCHUL_NM": "청도고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911035",
+    "SCHUL_NM": "청도중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911044",
+    "SCHUL_NM": "청도중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911034",
+    "SCHUL_NM": "청도초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961061",
+    "SCHUL_NM": "청량중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831090",
+    "SCHUL_NM": "청리중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831068",
+    "SCHUL_NM": "청리초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761151",
+    "SCHUL_NM": "청림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750130",
+    "SCHUL_NM": "청송고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750632",
+    "SCHUL_NM": "청송여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881030",
+    "SCHUL_NM": "청송여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881025",
+    "SCHUL_NM": "청송중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881032",
+    "SCHUL_NM": "청송중학교부동분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881020",
+    "SCHUL_NM": "청송초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851082",
+    "SCHUL_NM": "청천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821064",
+    "SCHUL_NM": "청통중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821049",
+    "SCHUL_NM": "청통초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761211",
+    "SCHUL_NM": "청하중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761152",
+    "SCHUL_NM": "청하초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761261",
+    "SCHUL_NM": "초곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761271",
+    "SCHUL_NM": "초서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931043",
+    "SCHUL_NM": "초전중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8931036",
+    "SCHUL_NM": "초전초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901042",
+    "SCHUL_NM": "축산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8901030",
+    "SCHUL_NM": "축산항초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871044",
+    "SCHUL_NM": "춘산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961055",
+    "SCHUL_NM": "춘양중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961056",
+    "SCHUL_NM": "춘양중학교서벽분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8961038",
+    "SCHUL_NM": "춘양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8871060",
+    "SCHUL_NM": "탑리여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881021",
+    "SCHUL_NM": "파천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851102",
+    "SCHUL_NM": "평산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811051",
+    "SCHUL_NM": "평은초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821050",
+    "SCHUL_NM": "평천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971052",
+    "SCHUL_NM": "평해중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971037",
+    "SCHUL_NM": "평해초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750655",
+    "SCHUL_NM": "포은고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821070",
+    "SCHUL_NM": "포은초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750133",
+    "SCHUL_NM": "포항고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750616",
+    "SCHUL_NM": "포항고등학교부설방송통신고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750625",
+    "SCHUL_NM": "포항과학기술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761153",
+    "SCHUL_NM": "포항남부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761154",
+    "SCHUL_NM": "포항대흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761155",
+    "SCHUL_NM": "포항동부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750542",
+    "SCHUL_NM": "포항동성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761212",
+    "SCHUL_NM": "포항동해중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750361",
+    "SCHUL_NM": "포항명도학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750769",
+    "SCHUL_NM": "포항보건고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761229",
+    "SCHUL_NM": "포항송곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761156",
+    "SCHUL_NM": "포항송도초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761157",
+    "SCHUL_NM": "포항양덕초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750134",
+    "SCHUL_NM": "포항여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750292",
+    "SCHUL_NM": "포항여자전자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761198",
+    "SCHUL_NM": "포항여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750208",
+    "SCHUL_NM": "포항영신고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761205",
+    "SCHUL_NM": "포항영신중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761158",
+    "SCHUL_NM": "포항영흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750209",
+    "SCHUL_NM": "포항예술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761272",
+    "SCHUL_NM": "포항용산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761159",
+    "SCHUL_NM": "포항원동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750539",
+    "SCHUL_NM": "포항이동고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761246",
+    "SCHUL_NM": "포항이동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750534",
+    "SCHUL_NM": "포항장성고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761160",
+    "SCHUL_NM": "포항장원초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761161",
+    "SCHUL_NM": "포항장흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750210",
+    "SCHUL_NM": "포항제철고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750337",
+    "SCHUL_NM": "포항제철공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761206",
+    "SCHUL_NM": "포항제철중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761174",
+    "SCHUL_NM": "포항제철지곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761256",
+    "SCHUL_NM": "포항제철초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750211",
+    "SCHUL_NM": "포항중앙고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750212",
+    "SCHUL_NM": "포항중앙여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761162",
+    "SCHUL_NM": "포항중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761199",
+    "SCHUL_NM": "포항중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761257",
+    "SCHUL_NM": "포항중학교부설방송통신중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761163",
+    "SCHUL_NM": "포항초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761230",
+    "SCHUL_NM": "포항포은중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761200",
+    "SCHUL_NM": "포항항도중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761164",
+    "SCHUL_NM": "포항항도초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761165",
+    "SCHUL_NM": "포항해맞이초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750670",
+    "SCHUL_NM": "포항흥해공업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911041",
+    "SCHUL_NM": "풍각중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911036",
+    "SCHUL_NM": "풍각초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811052",
+    "SCHUL_NM": "풍기북부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811059",
+    "SCHUL_NM": "풍기중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8811053",
+    "SCHUL_NM": "풍기초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791073",
+    "SCHUL_NM": "풍북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750475",
+    "SCHUL_NM": "풍산고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791094",
+    "SCHUL_NM": "풍산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791074",
+    "SCHUL_NM": "풍산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951035",
+    "SCHUL_NM": "풍양중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951028",
+    "SCHUL_NM": "풍양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791089",
+    "SCHUL_NM": "풍천중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8791106",
+    "SCHUL_NM": "풍천풍서초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750214",
+    "SCHUL_NM": "하양여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851100",
+    "SCHUL_NM": "하양여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851083",
+    "SCHUL_NM": "하양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851084",
+    "SCHUL_NM": "하주초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750634",
+    "SCHUL_NM": "학력인정경북미용예술고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8941059",
+    "SCHUL_NM": "학림초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761166",
+    "SCHUL_NM": "학천초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750763",
+    "SCHUL_NM": "한국국제조리고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750757",
+    "SCHUL_NM": "한국국제통상마이스터고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750775",
+    "SCHUL_NM": "한국미래농업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750807",
+    "SCHUL_NM": "한국미래산업고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750630",
+    "SCHUL_NM": "한국산림과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750556",
+    "SCHUL_NM": "한국생명과학고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750652",
+    "SCHUL_NM": "한국원자력마이스터고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750830",
+    "SCHUL_NM": "한국조리명장고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750831",
+    "SCHUL_NM": "한국철도고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750732",
+    "SCHUL_NM": "한국펫고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750804",
+    "SCHUL_NM": "한국해양마이스터고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750610",
+    "SCHUL_NM": "한동글로벌학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750216",
+    "SCHUL_NM": "한일여자고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8781092",
+    "SCHUL_NM": "한일여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750217",
+    "SCHUL_NM": "함창고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831069",
+    "SCHUL_NM": "함창중앙초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831098",
+    "SCHUL_NM": "함창중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831070",
+    "SCHUL_NM": "함창초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761167",
+    "SCHUL_NM": "항구초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801193",
+    "SCHUL_NM": "해마루중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801180",
+    "SCHUL_NM": "해마루초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801156",
+    "SCHUL_NM": "해평중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801130",
+    "SCHUL_NM": "해평초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771106",
+    "SCHUL_NM": "현곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881031",
+    "SCHUL_NM": "현동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750136",
+    "SCHUL_NM": "현서고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881026",
+    "SCHUL_NM": "현서중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750218",
+    "SCHUL_NM": "현일고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801162",
+    "SCHUL_NM": "현일중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8851085",
+    "SCHUL_NM": "현흥초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750566",
+    "SCHUL_NM": "형곡고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801157",
+    "SCHUL_NM": "형곡중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801131",
+    "SCHUL_NM": "형곡초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801158",
+    "SCHUL_NM": "형남중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801132",
+    "SCHUL_NM": "형남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801133",
+    "SCHUL_NM": "형일초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841048",
+    "SCHUL_NM": "호계초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8951041",
+    "SCHUL_NM": "호명초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8841049",
+    "SCHUL_NM": "호서남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831091",
+    "SCHUL_NM": "화동중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831071",
+    "SCHUL_NM": "화동초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771128",
+    "SCHUL_NM": "화랑중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771107",
+    "SCHUL_NM": "화랑초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750138",
+    "SCHUL_NM": "화령고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831092",
+    "SCHUL_NM": "화령중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831072",
+    "SCHUL_NM": "화령초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8881022",
+    "SCHUL_NM": "화목초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831093",
+    "SCHUL_NM": "화북중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831073",
+    "SCHUL_NM": "화북초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831079",
+    "SCHUL_NM": "화북초등학교용화분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8831080",
+    "SCHUL_NM": "화북초등학교입석분교장"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821065",
+    "SCHUL_NM": "화산중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8821052",
+    "SCHUL_NM": "화산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8911037",
+    "SCHUL_NM": "화양초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761201",
+    "SCHUL_NM": "환호여자중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771108",
+    "SCHUL_NM": "황남초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8801134",
+    "SCHUL_NM": "황상초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771109",
+    "SCHUL_NM": "황성초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761168",
+    "SCHUL_NM": "효자초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750669",
+    "SCHUL_NM": "효청보건고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8750140",
+    "SCHUL_NM": "후포고등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971038",
+    "SCHUL_NM": "후포동부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971053",
+    "SCHUL_NM": "후포중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8971039",
+    "SCHUL_NM": "후포초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8771110",
+    "SCHUL_NM": "흥무초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761169",
+    "SCHUL_NM": "흥해남산초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761170",
+    "SCHUL_NM": "흥해서부초등학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761213",
+    "SCHUL_NM": "흥해중학교"
+  },
+  {
+    "ATPT_OFCDC_SC_CODE": "R10",
+    "ATPT_OFCDC_SC_NM": "경상북도교육청",
+    "SD_SCHUL_CODE": "8761171",
+    "SCHUL_NM": "흥해초등학교"
+  }
+]
