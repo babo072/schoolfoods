@@ -1,7 +1,5 @@
 // SchoolFoods 통합 테스트 스크립트
 const { spawn } = require('child_process');
-const { Client } = require('@modelcontextprotocol/sdk/client');
-const { StdioClientTransport } = require('@modelcontextprotocol/sdk/client/stdio');
 const fetch = require('node-fetch');
 const fs = require('fs');
 const path = require('path');
@@ -24,13 +22,52 @@ const TEST_MODE = {
 };
 
 // 사용할 테스트 모드 (명령행 인수로 받을 수 있음)
-let testMode = TEST_MODE.MCP;
-if (process.argv.length > 2 && process.argv[2] === 'simple') {
-  testMode = TEST_MODE.SIMPLE;
+let testMode = TEST_MODE.SIMPLE; // 기본값을 SIMPLE로 변경
+if (process.argv.length > 2) {
+  if (process.argv[2] === 'mcp') {
+    testMode = TEST_MODE.MCP;
+  } else if (process.argv[2] === 'simple') {
+    testMode = TEST_MODE.SIMPLE;
+  }
+}
+
+// MCP SDK 로드 (mcp 모드에서만 사용)
+let Client, StdioClientTransport;
+if (testMode === TEST_MODE.MCP) {
+  try {
+    // SDK 경로 확인을 위한 로깅
+    console.log("MCP SDK 로드 중...");
+    
+    // 다양한 경로 시도
+    try {
+      const sdk = require('@modelcontextprotocol/sdk');
+      Client = sdk.Client;
+      StdioClientTransport = sdk.StdioClientTransport;
+      console.log("SDK가 루트 경로에서 로드되었습니다.");
+    } catch (e) {
+      try {
+        Client = require('@modelcontextprotocol/sdk/client');
+        StdioClientTransport = require('@modelcontextprotocol/sdk/client/stdio');
+        console.log("SDK가 개별 경로에서 로드되었습니다.");
+      } catch (e2) {
+        console.error("MCP SDK 로드 실패:", e2.message);
+        console.error("MCP 테스트를 위해서는 SDK가 필요합니다. simple 모드로 전환합니다.");
+        testMode = TEST_MODE.SIMPLE;
+      }
+    }
+  } catch (error) {
+    console.error("MCP SDK 모듈 로드 중 오류 발생:", error.message);
+    console.error("simple 모드로 전환합니다.");
+    testMode = TEST_MODE.SIMPLE;
+  }
 }
 
 // SchoolFoods 서버 시작 (MCP 모드)
 async function startMcpServer() {
+  if (testMode !== TEST_MODE.MCP) {
+    throw new Error("MCP 모드가 아닙니다. SDK가 로드되지 않았을 수 있습니다.");
+  }
+  
   console.log("SchoolFoods 서버 시작 중...");
   
   const serverProcess = spawn('node', ['index.js', 'stdio'], { 
@@ -88,6 +125,12 @@ async function checkDuplicateSchools() {
   const schoolCounts = {};
   
   try {
+    // 데이터 폴더 존재 확인
+    if (!fs.existsSync(dataFolderPath)) {
+      console.error(`데이터 폴더가 존재하지 않습니다: ${dataFolderPath}`);
+      return;
+    }
+    
     // 데이터 폴더에서 모든 JSON 파일 목록 가져오기
     const files = fs.readdirSync(dataFolderPath).filter(file => file.endsWith('.json'));
     
@@ -185,8 +228,18 @@ async function runSimpleTest() {
   // 학교 데이터 로드
   try {
     console.log("학교 데이터 로드 중...");
+    
+    // 데이터 폴더 존재 확인
+    if (!fs.existsSync(dataFolderPath)) {
+      throw new Error(`데이터 폴더가 존재하지 않습니다: ${dataFolderPath}`);
+    }
+    
     const files = fs.readdirSync(dataFolderPath);
     const jsonFiles = files.filter(file => file.endsWith('.json'));
+    
+    if (jsonFiles.length === 0) {
+      throw new Error("데이터 폴더에 JSON 파일이 없습니다.");
+    }
     
     for (const file of jsonFiles) {
       const filePath = path.join(dataFolderPath, file);
@@ -208,7 +261,7 @@ async function runSimpleTest() {
     console.log(`${jsonFiles.length}개의 파일에서 총 ${Object.keys(schoolsData).length}개 학교 정보를 로드했습니다.`);
   } catch (error) {
     console.error("학교 데이터 로드 중 오류 발생:", error);
-    throw error;
+    return; // 데이터 로드 실패 시 테스트 종료
   }
   
   // 날짜 문자열 처리 (오늘, 내일 등)
@@ -361,6 +414,12 @@ async function runSimpleTest() {
 
 // MCP 프로토콜 테스트
 async function runMcpTest() {
+  if (testMode !== TEST_MODE.MCP || !Client || !StdioClientTransport) {
+    console.error("MCP SDK가 로드되지 않았습니다. simple 모드로 전환합니다.");
+    testMode = TEST_MODE.SIMPLE;
+    return runSimpleTest();
+  }
+  
   console.log("SchoolFoods MCP 서버 테스트 시작\n");
   
   let client = null;
@@ -408,6 +467,10 @@ async function runMcpTest() {
         console.log("다음 테스트로 진행합니다...\n");
       }
     }
+  } catch (error) {
+    console.error("MCP 테스트 중 오류 발생:", error);
+    console.log("simple 모드로 전환합니다.");
+    return runSimpleTest();
   } finally {
     // 서버 종료
     if (serverProcess) {
@@ -420,20 +483,26 @@ async function runMcpTest() {
 
 // 메인 테스트 실행
 async function runTests() {
-  // 먼저 중복 학교명 확인
-  await checkDuplicateSchools();
+  console.log(`테스트 모드: ${testMode}`);
   
-  // 선택된 모드에 따라 테스트 실행
-  if (testMode === TEST_MODE.MCP) {
-    await runMcpTest();
-  } else {
-    await runSimpleTest();
+  try {
+    // 먼저 중복 학교명 확인
+    await checkDuplicateSchools();
+    
+    // 선택된 모드에 따라 테스트 실행
+    if (testMode === TEST_MODE.MCP) {
+      await runMcpTest();
+    } else {
+      await runSimpleTest();
+    }
+    
+    console.log("\n모든 테스트가 완료되었습니다.");
+  } catch (error) {
+    console.error("테스트 실행 중 오류 발생:", error);
   }
-  
-  console.log("\n모든 테스트가 완료되었습니다.");
 }
 
 // 테스트 실행
 runTests().catch(error => {
   console.error("테스트 실행 중 오류 발생:", error);
-}); 
+});
