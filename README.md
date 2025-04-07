@@ -1,5 +1,7 @@
 # SchoolFoods
 
+[![smithery badge](https://smithery.ai/badge/@babo072/schoolfoods)](https://smithery.ai/server/@babo072/schoolfoods)
+
 SchoolFoods는 전국 학교의 급식 정보를 조회할 수 있는 서비스입니다. Model Context Protocol(MCP)을 지원하며, 다양한 방식으로 학교 급식 정보를 쉽게 조회할 수 있습니다.
 
 ## 주요 기능
@@ -12,6 +14,15 @@ SchoolFoods는 전국 학교의 급식 정보를 조회할 수 있는 서비스�
 
 ## 설치 방법
 
+### Installing via Smithery
+
+To install SchoolFoods for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@babo072/schoolfoods):
+
+```bash
+npx -y @smithery/cli install @babo072/schoolfoods --client claude
+```
+
+### Manual Installation
 1. 저장소 클론
 ```bash
 git clone https://github.com/사용자명/schoolfoods.git
